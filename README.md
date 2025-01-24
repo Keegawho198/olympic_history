@@ -1,6 +1,9 @@
 # olympic_history
 Using SQL uncover insights into the evolution of the Olympics, the characteristics of successful athletes, and the progression of various sports over time.
 
+Athens 1896 to Rio 2016
+
+
 Steps to Check and Clean Data:
 
 Check for Missing Values:
