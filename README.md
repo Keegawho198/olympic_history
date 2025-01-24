@@ -4,7 +4,7 @@ Using SQL uncover insights into the evolution of the Olympics, the characteristi
 Athens 1896 to Rio 2016
 
 
-Steps to Check and Clean Data:
+# Steps to Check and Clean Data:
 
 Check for Missing Values:
 Identify columns or rows with missing values (NULL).
@@ -36,7 +36,7 @@ Hint: Use conditional statements to check for logical consistency.
 
 
 
-Questions to answer
+# Questions to answer
 
 Total Number of Athletes:
 Count the total number of unique athletes in the dataset.
