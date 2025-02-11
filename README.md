@@ -60,19 +60,33 @@ The file athlete_events.csv contains 271116 rows and 15 columns
 
 ## Athlete_events.csv
 ID - Unique number for each athlete
+
 Name - Athlete's name
+
 Sex - M or F
+
 Age - Integer
+
 Height - In centimeters
+
 Weight - In kilograms
+
 Team - Team name
+
 NOC - National Olympic Committee 3-letter code
+
 Games - Year and season
+
 Year - Integer
+
 Season - Summer or Winter
+
 City - Host city
+
 Sport - Sport
+
 Event - Event
+
 Medal - Gold, Silver, Bronze, or NA
 
 
@@ -81,5 +95,7 @@ Medal - Gold, Silver, Bronze, or NA
 
 ## Noc_regions.csv
 NOC - (National Olympic Committee 3 letter code)
+
 Country name - (matches with regions in map_data("world"))
+
 Notes
