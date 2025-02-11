@@ -1,8 +1,9 @@
 USE olympics;
 
+-- use if timeout too short
 -- Increase the global timeout settings
-SET @@GLOBAL.wait_timeout = 600;  -- 10 minutes
-SET @@GLOBAL.interactive_timeout = 600;  -- 10 minutes
+-- SET @@GLOBAL.wait_timeout = 600;  -- 10 minutes
+-- SET @@GLOBAL.interactive_timeout = 600;  -- 10 minutes
 
 
 SELECT COUNT(*) FROM athlete_events;
@@ -36,8 +37,7 @@ HAVING COUNT(*) > 1;
 
 
 SELECT *
-FROM athlete_events
-WHERE Name = 'William Truman Aldrich';
+FROM athlete_events;
 
 
 -- remove duplicates
@@ -64,7 +64,6 @@ FROM athlete_events;
 
 -- Medal Distribution by Country:
 -- Determine the number of gold, silver, and bronze medals won by each country.
--- Hint: Use GROUP BY with NOC and Medal, and use COUNT.
 SELECT * FROM athlete_events;
 SELECT * FROM noc_regions;
 
@@ -91,7 +90,7 @@ ORDER BY Total_Medals_From_Athletes DESC;
 
 /*Average Age of Medalists:
 Calculate the average age of athletes who have won medals.
-Hint: Filter the Medal column for non-NA values and use AVG.*/
+*/
 SELECT AVG(age)
 FROM athlete_events
 WHERE MEDAL != 'NA';
@@ -139,7 +138,7 @@ ORDER BY Year, Medal;
 
 /*Top 10 Most Successful Athletes:
 Identify athletes with the highest number of medals.
-Hint: Use GROUP BY with Name and COUNT.*/
+*/
 SELECT Name, Team, Sport, COUNT(Medal) AS num_medals
 FROM athlete_events
 WHERE Medal != 'NA'
@@ -148,33 +147,128 @@ ORDER BY num_medals DESC
 LIMIT 10;
 
 /*Average Height and Weight by Sport:
-Find the average height and weight of athletes for each sport.
-Hint: Use GROUP BY with Sport, and AVG.*/
+Find the average height and weight of athletes for each sport. */
+SELECT sport, 
+ROUND(AVG(height),2) AS average_height, 
+ROUND(AVG(weight),2) AS average_weight
+FROM athlete_events
+GROUP BY sport;
+
+-- filter out incorrect values
+SELECT 
+    sport, 
+    ROUND(AVG(height), 2) AS average_height, 
+    ROUND(AVG(weight), 2) AS average_weight
+FROM athlete_events
+WHERE height BETWEEN 100 AND 250  -- Exclude unrealistic heights
+AND weight BETWEEN 30 AND 200     -- Exclude unrealistic weights
+GROUP BY sport;
+
+-- adding yearly avg
+SELECT 
+    sport, 
+    Year,
+    ROUND(AVG(height), 2) AS average_height, 
+    ROUND(AVG(weight), 2) AS average_weight
+FROM athlete_events
+WHERE height BETWEEN 100 AND 250  -- Exclude unrealistic heights
+AND weight BETWEEN 30 AND 200     -- Exclude unrealistic weights
+GROUP BY year, sport
+ORDER BY year, sport;
 
 /*Trend in Athlete Participation Over Time:
 Analyze how athlete participation has changed over the years.
-Hint: Use GROUP BY with Year and COUNT.*/
+*/
+SELECT 
+    year, COUNT(*) AS total_athletes
+FROM athlete_events
+GROUP BY year
+ORDER BY year;
+
+-- include people who got medals
+SELECT 
+    year, COUNT(*) AS total_athletes,
+    COUNT(CASE WHEN medal != 'NA' THEN 1 END) AS medalists
+FROM athlete_events
+GROUP BY year
+ORDER BY year;
+
 
 /*Gender Participation Over Time:
 Compare the number of male and female athletes over different Olympic years.
-Hint: Use GROUP BY with Sex and Year.*/
+*/
+SELECT 
+    year,
+    sex,
+    COUNT(*) AS total_athletes,
+    COUNT(CASE WHEN medal != 'NA' THEN 1 END) AS medalists
+FROM athlete_events
+GROUP BY year, sex
+ORDER BY year;
 
-/*Host Cities Analysis:
-Find out which cities have hosted the Olympics the most times.
-Hint: Use GROUP BY with City and COUNT.*/
+
+
+-- Find out which cities have hosted the Olympics the most times.
+SELECT 
+    year,
+    city,
+    sex,
+    COUNT(*) AS total_athletes,
+    COUNT(CASE WHEN medal != 'NA' THEN 1 END) AS medalists
+FROM athlete_events
+GROUP BY year, sex, city
+ORDER BY year;
 
 /*Age Distribution of Athletes:
 Analyze the age distribution of athletes.
-Hint: Use GROUP BY with Age and COUNT.*/
+*/
+SELECT 
+    year, season, city, sex,
+    ROUND(AVG(age)) AS average_age,
+    COUNT(*) AS total_athletes,
+    COUNT(CASE WHEN medal != 'NA' THEN 1 END) AS medalists
+FROM athlete_events
+GROUP BY year, sex, city, season
+ORDER BY year;
+-- Eliza pollock in 1904 was 64
 
 /*Medals by Sport:
 Determine which sports have the highest number of medals.
-Hint: Use GROUP BY with Sport and COUNT.*/
+*/
+SELECT 
+    sport,
+    COUNT(*) AS total_athletes,
+    COUNT(CASE WHEN medal != 'NA' THEN 1 END) AS medalists
+FROM athlete_events
+GROUP BY sport
+ORDER BY medalists DESC;
+
 
 /*Comparison of Summer and Winter Olympics:
 Compare the number of events and athletes in Summer and Winter Olympics.
-Hint: Use GROUP BY with Season and COUNT.*/
+*/
+SELECT 
+    season,
+    COUNT(*) AS total_athletes,
+    COUNT(CASE WHEN medal != 'NA' THEN 1 END) AS medalists
+FROM athlete_events
+GROUP BY season
+ORDER BY medalists DESC;
 
 /*Team Performance Over Time:
 Analyze how the performance of specific teams has changed over the years.
-Hint: Use GROUP BY with Team and Year.*/
+*/
+
+-- Use NOC table to join as many countrys were duplicated making the output too large. Used noc as it put each code into one country.
+SELECT 
+    year, n.region,
+    COUNT(*) AS total_athletes,
+    COUNT(CASE WHEN medal != 'NA' THEN 1 END) AS medalists
+FROM athlete_events a
+JOIN noc_regions n 
+ON a.NOC = n.NOC
+GROUP BY year, n.region
+ORDER BY year;
+
+SELECT * FROM noc_regions;
+SELECT * FROM athlete_events LIMIT 10;
