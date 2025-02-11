@@ -3,6 +3,54 @@ Using SQL uncover insights into the evolution of the Olympics, the characteristi
 
 Athens 1896 to Rio 2016
 
+# Dataset Information
+
+Kaggle link: https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results?select=athlete_events.csv
+
+The file athlete_events.csv contains 271116 rows and 15 columns
+
+## Athlete_events.csv
+ID - Unique number for each athlete
+
+Name - Athlete's name
+
+Sex - M or F
+
+Age - Integer
+
+Height - In centimeters
+
+Weight - In kilograms
+
+Team - Team name
+
+NOC - National Olympic Committee 3-letter code
+
+Games - Year and season
+
+Year - Integer
+
+Season - Summer or Winter
+
+City - Host city
+
+Sport - Sport
+
+Event - Event
+
+Medal - Gold, Silver, Bronze, or NA
+
+
+------
+
+
+## Noc_regions.csv
+NOC - (National Olympic Committee 3 letter code)
+
+Country name - (matches with regions in map_data("world"))
+
+Notes
+
 
 # Steps to Check and Clean Data:
 
@@ -52,50 +100,4 @@ Determine which events have the highest number of participants.
 
 
 
-# Dataset Information
 
-Kaggle link: https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results?select=athlete_events.csv
-
-The file athlete_events.csv contains 271116 rows and 15 columns
-
-## Athlete_events.csv
-ID - Unique number for each athlete
-
-Name - Athlete's name
-
-Sex - M or F
-
-Age - Integer
-
-Height - In centimeters
-
-Weight - In kilograms
-
-Team - Team name
-
-NOC - National Olympic Committee 3-letter code
-
-Games - Year and season
-
-Year - Integer
-
-Season - Summer or Winter
-
-City - Host city
-
-Sport - Sport
-
-Event - Event
-
-Medal - Gold, Silver, Bronze, or NA
-
-
-------
-
-
-## Noc_regions.csv
-NOC - (National Olympic Committee 3 letter code)
-
-Country name - (matches with regions in map_data("world"))
-
-Notes
