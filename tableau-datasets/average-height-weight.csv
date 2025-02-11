@@ -1,0 +1,830 @@
+sport,Year,average_height,average_weight
+Athletics,1896,174.19,69.15
+Gymnastics,1896,163.11,72
+Weightlifting,1896,178.33,91.33
+Wrestling,1896,173.5,86
+Athletics,1900,178.58,74.53
+Fencing,1900,174,75
+Gymnastics,1900,164,66
+Rugby,1900,174.67,71.67
+Swimming,1900,186,89
+"Water Polo",1900,185,95
+Athletics,1904,178.26,74.05
+Boxing,1904,174,65.5
+Gymnastics,1904,166.47,69.4
+Lacrosse,1904,174,66.5
+Swimming,1904,182.75,72.75
+Tennis,1904,183,86
+Tug-Of-War,1904,182.75,84.5
+"Water Polo",1904,173,66
+Weightlifting,1904,170,75
+Wrestling,1904,165,64.5
+Athletics,1906,180.07,74.7
+Cycling,1906,178,67.58
+Diving,1906,170,76
+Fencing,1906,179.25,78.25
+Gymnastics,1906,181.25,76.25
+Swimming,1906,177.07,75.29
+Tug-Of-War,1906,180.71,86.29
+Weightlifting,1906,174,98
+Wrestling,1906,178,81.67
+Athletics,1908,178.19,73.74
+Boxing,1908,163.5,63
+Cycling,1908,174,66.38
+Diving,1908,170,76
+Football,1908,182,99
+Gymnastics,1908,171.5,68.83
+Hockey,1908,193,89
+Motorboating,1908,181,77
+Rowing,1908,181.33,72.67
+Swimming,1908,175.5,73
+Tug-Of-War,1908,183.38,99
+"Water Polo",1908,181.17,84.67
+Wrestling,1908,171.29,72.61
+Athletics,1912,178.17,72.29
+Diving,1912,170,76
+Equestrianism,1912,172,63
+Fencing,1912,180,82
+Football,1912,174.3,73.7
+Gymnastics,1912,176,73
+Rowing,1912,180,76
+Sailing,1912,176,82
+Shooting,1912,179,109
+Swimming,1912,168.75,68.5
+Tennis,1912,188,84.5
+"Water Polo",1912,182.5,89.75
+Wrestling,1912,177.38,88.58
+Athletics,1920,177.14,71.47
+Boxing,1920,163.4,55
+Cycling,1920,165.25,71.25
+Diving,1920,169,68
+Fencing,1920,180.93,75.79
+"Figure Skating",1920,169.5,65.5
+Football,1920,175.36,75.18
+Gymnastics,1920,173.33,67.33
+"Ice Hockey",1920,175.83,74
+Rowing,1920,181.64,73.5
+Rugby,1920,173.33,74.33
+Sailing,1920,186,81
+Swimming,1920,165.62,73.77
+Tennis,1920,169.14,62.43
+"Water Polo",1920,183,90.5
+Weightlifting,1920,167,72.75
+Wrestling,1920,172.17,77.46
+"Art Competitions",1924,172,76
+Athletics,1924,176.38,69.8
+Boxing,1924,175.92,74.54
+"Cross Country Skiing",1924,172,68.91
+Cycling,1924,176,76
+Diving,1924,169.67,62.67
+Equestrianism,1924,173.14,66.14
+Fencing,1924,175.11,72.22
+"Figure Skating",1924,164.67,58.67
+Football,1924,174.17,72.03
+"Ice Hockey",1924,175.2,78.1
+"Modern Pentathlon",1924,180.5,71
+"Nordic Combined",1924,174,68.5
+Rowing,1924,175.93,69.86
+Rugby,1924,173.67,80.11
+Shooting,1924,181.36,89.55
+"Ski Jumping",1924,172,70
+"Speed Skating",1924,169.5,64.5
+Swimming,1924,165.89,71.89
+Tennis,1924,177.83,70.67
+"Water Polo",1924,183,90.5
+Weightlifting,1924,169.5,73.17
+Wrestling,1924,173.15,73.58
+"Art Competitions",1928,164,93
+Athletics,1928,176.76,69.99
+Bobsleigh,1928,181.25,88
+Boxing,1928,173.11,65.44
+"Cross Country Skiing",1928,169.76,69.29
+Cycling,1928,171.85,70.69
+Equestrianism,1928,171,65.4
+Fencing,1928,179.14,76.14
+"Figure Skating",1928,164.75,58.75
+Football,1928,173.53,72.19
+Gymnastics,1928,166.97,64.1
+"Ice Hockey",1928,175.86,75.86
+"Modern Pentathlon",1928,176,67
+"Nordic Combined",1928,169,72
+Rowing,1928,182.64,78.14
+Sailing,1928,184,90
+Skeleton,1928,198,88
+"Ski Jumping",1928,167.67,67.67
+"Speed Skating",1928,171,69.43
+Swimming,1928,181.2,83.4
+"Water Polo",1928,189,95
+Weightlifting,1928,171.22,80.56
+Wrestling,1928,170.88,70.75
+"Art Competitions",1932,175.25,79.25
+Athletics,1932,176.73,70.48
+Bobsleigh,1932,172.67,58.33
+Boxing,1932,171,69.5
+"Cross Country Skiing",1932,171.21,68.37
+Cycling,1932,170.5,68.67
+Fencing,1932,178.25,76.81
+"Figure Skating",1932,161.67,54.33
+Gymnastics,1932,168.72,61.22
+"Ice Hockey",1932,174.42,75.17
+"Modern Pentathlon",1932,178,72
+"Nordic Combined",1932,170.33,65.67
+Rowing,1932,181.55,77.55
+Sailing,1932,169,63.5
+"Ski Jumping",1932,166.67,62.67
+Swimming,1932,172.71,66.43
+Weightlifting,1932,168.75,73.38
+Wrestling,1932,172.75,76.06
+"Alpine Skiing",1936,165,61
+"Art Competitions",1936,179,77
+Athletics,1936,177.43,71
+Basketball,1936,184.23,80.3
+Bobsleigh,1936,176.67,65.33
+Boxing,1936,172.57,66.07
+Canoeing,1936,182.86,86
+"Cross Country Skiing",1936,171.63,67.89
+Cycling,1936,176.8,70.6
+Equestrianism,1936,171.38,68.25
+Fencing,1936,177.54,77.21
+"Figure Skating",1936,160,52
+Football,1936,173.1,71.5
+Gymnastics,1936,165.51,60.81
+Handball,1936,181,73.5
+Hockey,1936,177,85
+"Ice Hockey",1936,176.36,73.5
+"Nordic Combined",1936,173.75,71.75
+Rowing,1936,184.2,81.3
+Sailing,1936,175.64,70.82
+Shooting,1936,173.83,73.17
+"Ski Jumping",1936,168.67,65.67
+"Speed Skating",1936,171,75.33
+Swimming,1936,174,72.71
+Weightlifting,1936,169.17,82
+Wrestling,1936,177,85.91
+"Alpine Skiing",1948,169.5,64.1
+"Art Competitions",1948,176,75
+Athletics,1948,177.4,70.3
+Basketball,1948,187.5,82.21
+Bobsleigh,1948,188,92
+Boxing,1948,172.5,70.15
+Canoeing,1948,176.55,77.78
+"Cross Country Skiing",1948,173.62,69.52
+Cycling,1948,175.71,72.94
+Diving,1948,163.6,53.6
+Equestrianism,1948,172.25,65.94
+Fencing,1948,175.11,73.77
+"Figure Skating",1948,168.67,63
+Football,1948,175.33,74
+Gymnastics,1948,168.82,66.14
+Hockey,1948,176.46,73.77
+"Ice Hockey",1948,175.68,73.16
+"Modern Pentathlon",1948,174.5,63.75
+"Nordic Combined",1948,172.5,70
+Rowing,1948,181.53,78.13
+Sailing,1948,176.76,79.15
+Shooting,1948,176.13,75.61
+"Ski Jumping",1948,169,70.4
+"Speed Skating",1948,175.67,71.33
+Swimming,1948,179.83,78.83
+"Water Polo",1948,184.75,85
+Weightlifting,1948,170.12,78.19
+Wrestling,1948,171.5,72.6
+"Alpine Skiing",1952,173.52,67.2
+Athletics,1952,176.41,70.32
+Basketball,1952,190.02,84.71
+Bobsleigh,1952,188,109
+Boxing,1952,173.76,70.18
+Canoeing,1952,175.81,72.62
+"Cross Country Skiing",1952,172.29,65.65
+Cycling,1952,175.62,72.69
+Diving,1952,163.33,59
+Equestrianism,1952,175.33,69.49
+Fencing,1952,177.43,74.37
+"Figure Skating",1952,167.5,57.75
+Football,1952,174.5,72.24
+Gymnastics,1952,164.7,60.67
+Hockey,1952,175.65,72.58
+"Ice Hockey",1952,177.8,74.6
+"Modern Pentathlon",1952,175.67,68.94
+"Nordic Combined",1952,173.8,69
+Rowing,1952,182.18,79.23
+Sailing,1952,176.38,79
+Shooting,1952,174.63,77.4
+"Ski Jumping",1952,173.56,66.11
+"Speed Skating",1952,169.38,65.46
+Swimming,1952,176.21,71.81
+"Water Polo",1952,184.1,84.05
+Weightlifting,1952,172.5,85.35
+Wrestling,1952,171.3,72.61
+"Alpine Skiing",1956,169.27,65.66
+Athletics,1956,176.07,70.07
+Basketball,1956,188.39,86.05
+Bobsleigh,1956,177.48,81.26
+Boxing,1956,173.67,71.32
+Canoeing,1956,175.67,73.27
+"Cross Country Skiing",1956,170.85,66.52
+Cycling,1956,175.42,70.8
+Diving,1956,163.28,57.59
+Equestrianism,1956,175.23,69.44
+Fencing,1956,177.29,72.83
+"Figure Skating",1956,162.73,54.64
+Football,1956,176.84,72.81
+Gymnastics,1956,163.86,60.29
+Hockey,1956,176.53,72.78
+"Ice Hockey",1956,176.92,76.79
+"Modern Pentathlon",1956,177.11,71.86
+"Nordic Combined",1956,171.33,69
+Rowing,1956,184.18,81.07
+Sailing,1956,177.84,80.38
+Shooting,1956,174.23,75.36
+"Ski Jumping",1956,171.59,68.06
+"Speed Skating",1956,170.64,69
+Swimming,1956,175.63,71.02
+"Water Polo",1956,183.34,83.68
+Weightlifting,1956,167.98,78.9
+Wrestling,1956,171.72,74
+"Alpine Skiing",1960,167.77,64.94
+Athletics,1960,176.47,70.34
+Basketball,1960,188.26,83.96
+Biathlon,1960,176.67,73.78
+Boxing,1960,171.2,64.97
+Canoeing,1960,175.57,73.07
+"Cross Country Skiing",1960,169.96,65.54
+Cycling,1960,174.72,69.9
+Diving,1960,166.74,61.63
+Equestrianism,1960,173.95,68.11
+Fencing,1960,175.24,70.08
+"Figure Skating",1960,164.62,57.56
+Football,1960,173.92,69.96
+Gymnastics,1960,164.45,59.99
+Hockey,1960,174.44,69.7
+"Ice Hockey",1960,177.35,78.16
+"Modern Pentathlon",1960,177.3,71.04
+"Nordic Combined",1960,170.54,69.31
+Rowing,1960,181.91,77.96
+Sailing,1960,176.49,76.27
+Shooting,1960,173.89,75.63
+"Ski Jumping",1960,170.86,69
+"Speed Skating",1960,168.2,65.55
+Swimming,1960,173.88,68.95
+"Water Polo",1960,182.29,82.46
+Weightlifting,1960,167.94,76.29
+Wrestling,1960,171.11,71.8
+"Alpine Skiing",1964,169.56,67.04
+Athletics,1964,175.86,69.48
+Basketball,1964,189.84,84.43
+Biathlon,1964,174.35,70.77
+Bobsleigh,1964,177.27,82.14
+Boxing,1964,171.16,64.12
+Canoeing,1964,176.1,73.63
+"Cross Country Skiing",1964,170.68,65.59
+Cycling,1964,174.35,70.15
+Diving,1964,166.02,61.21
+Equestrianism,1964,173.69,67.12
+Fencing,1964,175.12,69.7
+"Figure Skating",1964,167.4,60.9
+Football,1964,174.23,70.55
+Gymnastics,1964,165.12,60.58
+Hockey,1964,174.61,69.72
+"Ice Hockey",1964,176.49,76.91
+Judo,1964,174.87,80.29
+Luge,1964,174.26,73.71
+"Modern Pentathlon",1964,177.96,72.23
+"Nordic Combined",1964,173.1,69.12
+Rowing,1964,182.81,79.55
+Sailing,1964,177.42,77.21
+Shooting,1964,173.64,75.39
+"Ski Jumping",1964,172.38,70.32
+"Speed Skating",1964,170.86,67.74
+Swimming,1964,174.85,69.4
+Volleyball,1964,179.33,73.34
+"Water Polo",1964,182.07,81.19
+Weightlifting,1964,168.47,78.06
+Wrestling,1964,172.16,75.16
+"Alpine Skiing",1968,171.05,67.37
+Athletics,1968,176.37,69.59
+Basketball,1968,190.14,84.16
+Biathlon,1968,176.12,72.05
+Bobsleigh,1968,177.39,81.71
+Boxing,1968,170.66,63.39
+Canoeing,1968,177.36,74.72
+"Cross Country Skiing",1968,172.55,67.1
+Cycling,1968,176.2,71.36
+Diving,1968,168.2,62.88
+Equestrianism,1968,173.95,67.99
+Fencing,1968,176.36,71.49
+"Figure Skating",1968,167.66,59.41
+Football,1968,174.16,69.69
+Gymnastics,1968,164.79,59.12
+Hockey,1968,174.81,70.3
+"Ice Hockey",1968,177.05,77.61
+Luge,1968,174.17,73.2
+"Modern Pentathlon",1968,177.54,71.02
+"Nordic Combined",1968,173.51,69.86
+Rowing,1968,184.28,81.07
+Sailing,1968,178.22,77.06
+Shooting,1968,174.34,74.78
+"Ski Jumping",1968,174.08,71.03
+"Speed Skating",1968,172.15,67.98
+Swimming,1968,174.5,67.48
+Volleyball,1968,180.82,75.12
+"Water Polo",1968,182.73,82.22
+Weightlifting,1968,168.06,78
+Wrestling,1968,172.03,75.26
+"Alpine Skiing",1972,170.97,65.59
+Archery,1972,172.48,69.28
+Athletics,1972,175.99,69
+Basketball,1972,193.43,86.8
+Biathlon,1972,175.61,70.11
+Bobsleigh,1972,178.66,80.88
+Boxing,1972,170.69,63.02
+Canoeing,1972,176.85,73.8
+"Cross Country Skiing",1972,171.16,65.19
+Cycling,1972,176.48,71.58
+Diving,1972,167.91,62.17
+Equestrianism,1972,173.09,67.3
+Fencing,1972,177.03,71.71
+"Figure Skating",1972,166.83,58.89
+Football,1972,175.89,71.23
+Gymnastics,1972,164.64,57.57
+Handball,1972,184.42,82.9
+Hockey,1972,175.04,71.26
+"Ice Hockey",1972,177.83,78.32
+Judo,1972,176.77,83.11
+Luge,1972,175,75.02
+"Modern Pentathlon",1972,177.97,71.59
+"Nordic Combined",1972,175.1,70.88
+Rowing,1972,185.22,82.16
+Sailing,1972,180.47,79.81
+Shooting,1972,174.58,75.61
+"Ski Jumping",1972,174.93,70
+"Speed Skating",1972,172.89,67.71
+Swimming,1972,175.06,66.93
+Volleyball,1972,182.06,76.86
+"Water Polo",1972,182.79,82.03
+Weightlifting,1972,167.41,79.96
+Wrestling,1972,171.02,72.57
+"Alpine Skiing",1976,171.51,66.46
+Archery,1976,170.73,66.86
+Athletics,1976,176.67,69.93
+Basketball,1976,189.77,82.57
+Biathlon,1976,177.15,71.03
+Bobsleigh,1976,179,83.03
+Boxing,1976,172.34,63.49
+Canoeing,1976,179.03,76.54
+"Cross Country Skiing",1976,172.41,66.17
+Cycling,1976,176.84,71.87
+Diving,1976,166.69,59.6
+Equestrianism,1976,173.66,67.3
+Fencing,1976,176.84,70.49
+"Figure Skating",1976,168.05,57.61
+Football,1976,175.35,71.47
+Gymnastics,1976,164.24,56.23
+Handball,1976,180.95,78.47
+Hockey,1976,176.23,71.49
+"Ice Hockey",1976,177.37,78.03
+Judo,1976,178.24,84.46
+Luge,1976,175.78,76.43
+"Modern Pentathlon",1976,179.96,71.85
+"Nordic Combined",1976,175.7,70.52
+Rowing,1976,181.44,78.1
+Sailing,1976,179.81,77.75
+Shooting,1976,175.09,74.7
+"Ski Jumping",1976,174.28,69.73
+"Speed Skating",1976,173.96,69.45
+Swimming,1976,173.87,64.48
+Volleyball,1976,182.56,76.37
+"Water Polo",1976,184.76,83.78
+Weightlifting,1976,166.87,77.76
+Wrestling,1976,171.66,74.34
+"Alpine Skiing",1980,171.54,66.54
+Archery,1980,172.65,69.89
+Athletics,1980,176.68,68.83
+Basketball,1980,190.98,83.07
+Biathlon,1980,178.15,71.99
+Bobsleigh,1980,180.81,84.94
+Boxing,1980,171.37,63.38
+Canoeing,1980,180.27,78.07
+"Cross Country Skiing",1980,173.84,66.6
+Cycling,1980,177.67,71.21
+Diving,1980,167.99,60.62
+Equestrianism,1980,172.61,68.3
+Fencing,1980,177.76,70.43
+"Figure Skating",1980,166.91,55.91
+Football,1980,177.09,72.95
+Gymnastics,1980,162.26,54.28
+Handball,1980,182.45,81.12
+Hockey,1980,169.13,65.5
+"Ice Hockey",1980,178.46,79.69
+Judo,1980,177.72,82.64
+Luge,1980,175.63,76.09
+"Modern Pentathlon",1980,180.03,71.39
+"Nordic Combined",1980,175.83,69.9
+Rowing,1980,182.35,79.51
+Sailing,1980,181.01,81.27
+Shooting,1980,175.01,74.97
+"Ski Jumping",1980,175.47,67.76
+"Speed Skating",1980,174.27,69.19
+Swimming,1980,177.62,68.63
+Volleyball,1980,185.05,78.27
+"Water Polo",1980,185.81,84.21
+Weightlifting,1980,168.4,78.59
+Wrestling,1980,172.57,75.66
+"Alpine Skiing",1984,173.02,68.76
+Archery,1984,171.66,66.82
+Athletics,1984,175.83,67.43
+Basketball,1984,192.3,85.79
+Biathlon,1984,179.22,72.98
+Bobsleigh,1984,180.96,87.05
+Boxing,1984,172.68,65.36
+Canoeing,1984,178.62,76.15
+"Cross Country Skiing",1984,173.52,65.53
+Cycling,1984,176.85,70.28
+Diving,1984,167.36,60.95
+Equestrianism,1984,173.82,66.29
+Fencing,1984,178.16,70.93
+"Figure Skating",1984,167.09,57.18
+Football,1984,178.14,73.63
+Gymnastics,1984,161.62,54.88
+Handball,1984,183.03,79.68
+Hockey,1984,172.73,67.59
+"Ice Hockey",1984,180.32,82.02
+Judo,1984,176.96,81.45
+Luge,1984,175.96,75.84
+"Modern Pentathlon",1984,178.73,70.97
+"Nordic Combined",1984,175.25,68.11
+"Rhythmic Gymnastics",1984,163.42,48.52
+Rowing,1984,182.34,78.17
+Sailing,1984,180.57,77.9
+Shooting,1984,173.47,72.91
+"Ski Jumping",1984,176.03,67.38
+"Speed Skating",1984,174.91,70.21
+Swimming,1984,178.46,70.2
+"Synchronized Swimming",1984,167.18,56.8
+Volleyball,1984,185.49,76.79
+"Water Polo",1984,186.26,84.52
+Weightlifting,1984,168.12,78.7
+Wrestling,1984,172.38,73.63
+"Alpine Skiing",1988,173.54,70.42
+Archery,1988,172.57,67.78
+Athletics,1988,175.58,67.69
+Basketball,1988,190.78,84.24
+Biathlon,1988,178.81,72.55
+Bobsleigh,1988,182.65,88.89
+Boxing,1988,172.66,64.75
+Canoeing,1988,179.43,77.17
+"Cross Country Skiing",1988,174.06,65.71
+Cycling,1988,176.77,70.44
+Diving,1988,166.98,60.45
+Equestrianism,1988,174.58,66.97
+Fencing,1988,178.67,72.26
+"Figure Skating",1988,168.67,60.07
+Football,1988,179.66,74.74
+Gymnastics,1988,161.63,54.43
+Handball,1988,182.89,79.99
+Hockey,1988,172.24,67.94
+"Ice Hockey",1988,181.37,83.81
+Judo,1988,175.68,79.92
+Luge,1988,175.85,76.23
+"Modern Pentathlon",1988,179.84,72.41
+"Nordic Combined",1988,176.83,67.35
+"Rhythmic Gymnastics",1988,163.41,46.59
+Rowing,1988,184.44,80.6
+Sailing,1988,178.73,76.51
+Shooting,1988,173.28,73
+"Ski Jumping",1988,177.51,66.8
+"Speed Skating",1988,174.77,70.56
+Swimming,1988,179.15,70.62
+"Synchronized Swimming",1988,167.8,55.39
+"Table Tennis",1988,171.34,64.19
+Tennis,1988,179.56,70.73
+Volleyball,1988,187.88,79.64
+"Water Polo",1988,186.53,85.52
+Weightlifting,1988,169.38,80.67
+Wrestling,1988,172.23,75.59
+"Alpine Skiing",1992,174.47,73.3
+Archery,1992,174.01,67.47
+Athletics,1992,176.12,68.18
+Badminton,1992,174.2,67.94
+Baseball,1992,180.17,80.65
+Basketball,1992,194.64,89.36
+Biathlon,1992,173.97,66.33
+Bobsleigh,1992,182.87,89.61
+Boxing,1992,174.07,66.26
+Canoeing,1992,178.75,76.12
+"Cross Country Skiing",1992,173.57,65.3
+Cycling,1992,177.1,70.5
+Diving,1992,166.37,59.64
+Equestrianism,1992,175.48,68.74
+Fencing,1992,179.35,73.39
+"Figure Skating",1992,166.56,58.87
+Football,1992,179.51,76.02
+"Freestyle Skiing",1992,173.78,68.3
+Gymnastics,1992,162.53,56.37
+Handball,1992,184.96,83.23
+Hockey,1992,173.35,69.15
+"Ice Hockey",1992,181.82,84.46
+Judo,1992,172.18,75.81
+Luge,1992,177.95,78.94
+"Modern Pentathlon",1992,180.81,73.16
+"Nordic Combined",1992,176.44,66.96
+"Rhythmic Gymnastics",1992,164.96,46.19
+Rowing,1992,185.81,82.11
+Sailing,1992,179.1,76.72
+Shooting,1992,173.09,72.48
+"Short Track Speed Skating",1992,169.83,64.01
+"Ski Jumping",1992,178.46,65.65
+"Speed Skating",1992,175.14,71.26
+Swimming,1992,180.24,71.37
+"Synchronized Swimming",1992,168.43,54.91
+"Table Tennis",1992,171.27,64.61
+Tennis,1992,177.81,68.98
+Volleyball,1992,189.13,81.11
+"Water Polo",1992,188.37,87.52
+Weightlifting,1992,171.17,86.21
+Wrestling,1992,172.83,77.28
+"Alpine Skiing",1994,174,73.31
+Biathlon,1994,173.46,65.68
+Bobsleigh,1994,182.59,90.19
+"Cross Country Skiing",1994,174.18,66.05
+"Figure Skating",1994,168.31,60.08
+"Freestyle Skiing",1994,171.13,66.19
+"Ice Hockey",1994,182.09,85.04
+Luge,1994,178.01,79.58
+"Nordic Combined",1994,177.02,67.19
+"Short Track Speed Skating",1994,169.69,64.48
+"Ski Jumping",1994,178.48,64.91
+"Speed Skating",1994,174.58,70.9
+Archery,1996,173.76,71.19
+Athletics,1996,176.46,69.19
+Badminton,1996,175.28,68.87
+Baseball,1996,182.33,84.23
+Basketball,1996,190.79,85.61
+"Beach Volleyball",1996,184.53,77.86
+Boxing,1996,174.05,67.09
+Canoeing,1996,179.38,77.04
+Cycling,1996,176.63,69.21
+Diving,1996,166.67,59.81
+Equestrianism,1996,175.23,68.93
+Fencing,1996,177.78,71.43
+Football,1996,175.73,70.35
+Gymnastics,1996,160.22,54.02
+Handball,1996,184.37,82.27
+Hockey,1996,173.3,69.39
+Judo,1996,172.37,75.52
+"Modern Pentathlon",1996,179.73,72.69
+"Rhythmic Gymnastics",1996,166.67,45.21
+Rowing,1996,185.47,80.77
+Sailing,1996,178.13,76.1
+Shooting,1996,173.54,74.04
+Softball,1996,168.69,65.48
+Swimming,1996,180.15,71.6
+"Synchronized Swimming",1996,168.55,55.95
+"Table Tennis",1996,170.73,64.79
+Tennis,1996,177.94,69.99
+Volleyball,1996,189.79,81.5
+"Water Polo",1996,190.03,90.58
+Weightlifting,1996,169.79,85.03
+Wrestling,1996,173.41,78.22
+"Alpine Skiing",1998,173.85,75.05
+Biathlon,1998,173.33,65.91
+Bobsleigh,1998,183.12,93.13
+"Cross Country Skiing",1998,173.3,65.3
+Curling,1998,174.68,72.71
+"Figure Skating",1998,168.76,60.03
+"Freestyle Skiing",1998,169.8,65.3
+"Ice Hockey",1998,178.56,81.27
+Luge,1998,176.96,78.98
+"Nordic Combined",1998,177.1,66
+"Short Track Speed Skating",1998,169.09,64.28
+"Ski Jumping",1998,177.7,63.08
+Snowboarding,1998,172.57,68.04
+"Speed Skating",1998,174.55,71.1
+Archery,2000,174.06,70.15
+Athletics,2000,176.53,69.72
+Badminton,2000,173.92,67.48
+Baseball,2000,182.39,85.48
+Basketball,2000,191,86.64
+"Beach Volleyball",2000,184.95,78.49
+Boxing,2000,174.16,66.08
+Canoeing,2000,179.79,78.04
+Cycling,2000,176.39,69.75
+Diving,2000,166.79,59.71
+Equestrianism,2000,174.24,67.25
+Fencing,2000,179.05,72.85
+Football,2000,175.71,70.12
+Gymnastics,2000,160.84,54.92
+Handball,2000,182.99,80.57
+Hockey,2000,173.47,69.29
+Judo,2000,173.31,77.7
+"Modern Pentathlon",2000,175.79,66.19
+"Rhythmic Gymnastics",2000,167.1,46.64
+Rowing,2000,185.68,80.72
+Sailing,2000,178.37,76.36
+Shooting,2000,173.03,73
+Softball,2000,169.42,68.03
+Swimming,2000,180.62,72.42
+"Synchronized Swimming",2000,168.85,55.88
+"Table Tennis",2000,171.19,64.87
+Taekwondo,2000,175.16,68.33
+Tennis,2000,177.91,69.79
+Trampolining,2000,167.87,62
+Triathlon,2000,173.24,62.97
+Volleyball,2000,188.99,80.73
+"Water Polo",2000,184.9,83.71
+Weightlifting,2000,166.77,79.37
+Wrestling,2000,174.55,78.04
+"Alpine Skiing",2002,174.24,75.96
+Biathlon,2002,173.03,65.63
+Bobsleigh,2002,182.62,92
+"Cross Country Skiing",2002,173.26,65.59
+Curling,2002,174.68,72.71
+"Figure Skating",2002,169.08,60.52
+"Freestyle Skiing",2002,169.41,65.53
+"Ice Hockey",2002,178.58,81.21
+Luge,2002,177.56,78.87
+"Nordic Combined",2002,177.32,66.18
+"Short Track Speed Skating",2002,170.27,64.87
+Skeleton,2002,175.65,74.32
+"Ski Jumping",2002,178,62.34
+Snowboarding,2002,172.57,69.5
+"Speed Skating",2002,174.8,70.91
+Archery,2004,173.73,70.39
+Athletics,2004,176.3,69.89
+Badminton,2004,173.6,68.13
+Baseball,2004,183.48,88.03
+Basketball,2004,191.65,86.87
+"Beach Volleyball",2004,185.44,79.52
+Boxing,2004,174.19,66.17
+Canoeing,2004,179,77.72
+Cycling,2004,176.62,69.51
+Diving,2004,166.44,60.65
+Equestrianism,2004,175.09,68.34
+Fencing,2004,178.66,72.35
+Football,2004,174.86,69.16
+Gymnastics,2004,161,55.2
+Handball,2004,183.86,82.27
+Hockey,2004,172.55,68.93
+Judo,2004,173.21,78.65
+"Modern Pentathlon",2004,175.72,66.7
+"Rhythmic Gymnastics",2004,169.11,49.39
+Rowing,2004,185.45,80.7
+Sailing,2004,177.03,73.05
+Shooting,2004,173.08,74.37
+Softball,2004,169.55,67.99
+Swimming,2004,180.52,72.39
+"Synchronized Swimming",2004,168.43,55.85
+"Table Tennis",2004,170.92,65.1
+Taekwondo,2004,175.55,68.43
+Tennis,2004,178.63,70.73
+Trampolining,2004,165.81,60.44
+Triathlon,2004,173.68,62.4
+Volleyball,2004,189.85,81.18
+"Water Polo",2004,184.28,83.73
+Weightlifting,2004,167.4,79.87
+Wrestling,2004,172.89,76.68
+"Alpine Skiing",2006,175.14,75.67
+Biathlon,2006,172.93,65.08
+Bobsleigh,2006,182.45,91.89
+"Cross Country Skiing",2006,173.31,65.82
+Curling,2006,174.01,72.19
+"Figure Skating",2006,169.3,60.45
+"Freestyle Skiing",2006,169.53,65.75
+"Ice Hockey",2006,178.38,81.02
+Luge,2006,177.31,77.49
+"Nordic Combined",2006,177.48,66.23
+"Short Track Speed Skating",2006,169.75,64.21
+Skeleton,2006,177.1,75.31
+"Ski Jumping",2006,177.36,61.57
+Snowboarding,2006,172.79,69.83
+"Speed Skating",2006,175.4,71.49
+Archery,2008,173.28,72.68
+Athletics,2008,176.03,69.45
+Badminton,2008,173.7,67.89
+Baseball,2008,183.83,88.24
+Basketball,2008,192.12,87.21
+"Beach Volleyball",2008,187.32,79.88
+Boxing,2008,174.85,66.32
+Canoeing,2008,179.35,77.95
+Cycling,2008,176.88,69.92
+Diving,2008,166.58,60.84
+Equestrianism,2008,174.37,67.8
+Fencing,2008,176.95,70.36
+Football,2008,175.42,69.79
+Gymnastics,2008,161.07,55.2
+Handball,2008,184,81.59
+Hockey,2008,172.6,68.63
+Judo,2008,172.86,78.8
+"Modern Pentathlon",2008,176.21,66.21
+"Rhythmic Gymnastics",2008,169.73,50.85
+Rowing,2008,185.88,80.77
+Sailing,2008,177.48,73.33
+Shooting,2008,173.41,74.67
+Softball,2008,169.83,67.78
+Swimming,2008,180.41,72.21
+"Synchronized Swimming",2008,168.52,56.02
+"Table Tennis",2008,170.95,65.25
+Taekwondo,2008,176.13,68.43
+Tennis,2008,179.06,71.21
+Trampolining,2008,165.78,58
+Triathlon,2008,174.39,61.95
+Volleyball,2008,190.44,79.94
+"Water Polo",2008,185.19,85.54
+Weightlifting,2008,166.04,78.1
+Wrestling,2008,172.57,75.87
+"Alpine Skiing",2010,175.32,75.33
+Biathlon,2010,173.35,65.15
+Bobsleigh,2010,182.63,92.93
+"Cross Country Skiing",2010,173.88,65.84
+Curling,2010,174,71.8
+"Figure Skating",2010,169.52,60.54
+"Freestyle Skiing",2010,171.27,69.26
+"Ice Hockey",2010,178.87,81.01
+Luge,2010,178.07,79.51
+"Nordic Combined",2010,177.53,65.61
+"Short Track Speed Skating",2010,170.49,63.95
+Skeleton,2010,175.32,72.89
+"Ski Jumping",2010,177.74,61.54
+Snowboarding,2010,173.11,70.1
+"Speed Skating",2010,175.41,71.36
+Archery,2012,173.3,71.8
+Athletics,2012,176.09,68.95
+Badminton,2012,174.19,68.02
+Basketball,2012,192.31,87.44
+"Beach Volleyball",2012,186.83,79.51
+Boxing,2012,175.11,67.36
+Canoeing,2012,178.09,76.27
+Cycling,2012,175.46,69.17
+Diving,2012,165.62,59.84
+Equestrianism,2012,174.5,67.64
+Fencing,2012,177.08,69.74
+Football,2012,173.85,68.15
+Gymnastics,2012,161.8,56.28
+Handball,2012,184.02,82.16
+Hockey,2012,173.02,68.99
+Judo,2012,173.68,77.29
+"Modern Pentathlon",2012,176.38,66.18
+"Rhythmic Gymnastics",2012,169.78,51.57
+Rowing,2012,185.57,80.83
+Sailing,2012,177.96,74.13
+Shooting,2012,172.08,72.7
+Swimming,2012,180.46,72.55
+"Synchronized Swimming",2012,169.3,56.33
+"Table Tennis",2012,171.61,65.61
+Taekwondo,2012,176.9,67.89
+Tennis,2012,180.13,72.32
+Trampolining,2012,166.2,58.13
+Triathlon,2012,173.69,61.17
+Volleyball,2012,189.93,79.9
+"Water Polo",2012,186.09,86.03
+Weightlifting,2012,166.51,78.94
+Wrestling,2012,172.58,75.83
+"Alpine Skiing",2014,175.45,74.85
+Biathlon,2014,173.36,65.37
+Bobsleigh,2014,183,93.73
+"Cross Country Skiing",2014,174.2,66.54
+Curling,2014,173.11,70.56
+"Figure Skating",2014,168.64,60.19
+"Freestyle Skiing",2014,171.71,67.49
+"Ice Hockey",2014,179.1,81.64
+Luge,2014,178.55,79.59
+"Nordic Combined",2014,177,64.83
+"Short Track Speed Skating",2014,170.94,64.3
+Skeleton,2014,176.26,73.83
+"Ski Jumping",2014,175.58,61.17
+Snowboarding,2014,173.55,69.62
+"Speed Skating",2014,175.14,70.64
+Archery,2016,173.36,72.23
+Athletics,2016,175.21,67.41
+Badminton,2016,174.61,68.97
+Basketball,2016,192.06,87.9
+"Beach Volleyball",2016,187.38,78.58
+Boxing,2016,174.21,66.61
+Canoeing,2016,177.89,77.01
+Cycling,2016,174.77,68.38
+Diving,2016,166.41,60.6
+Equestrianism,2016,175.31,67.9
+Fencing,2016,177.62,71.23
+Football,2016,174.49,68.36
+Golf,2016,173.89,71.09
+Gymnastics,2016,161.85,56.53
+Handball,2016,183.65,83.27
+Hockey,2016,173.27,68.8
+Judo,2016,173.62,77.29
+"Modern Pentathlon",2016,176.46,66.33
+"Rhythmic Gymnastics",2016,168.76,50.4
+Rowing,2016,184.99,79.87
+"Rugby Sevens",2016,175.36,79.01
+Sailing,2016,176.19,71.27
+Shooting,2016,172.76,73.2
+Swimming,2016,180.74,72.18
+"Synchronized Swimming",2016,168.72,55.62
+"Table Tennis",2016,172.04,64.61
+Taekwondo,2016,179.69,67.41
+Tennis,2016,180.15,72.1
+Trampolining,2016,167.5,58.72
+Triathlon,2016,173.17,60.75
+Volleyball,2016,190.33,80.29
+"Water Polo",2016,185.29,85.45
+Weightlifting,2016,166.71,79.84
+Wrestling,2016,172.52,78.03
