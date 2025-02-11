@@ -41,7 +41,7 @@ Event - Event
 Medal - Gold, Silver, Bronze, or NA
 
 
-------
+
 
 
 ## Noc_regions.csv
