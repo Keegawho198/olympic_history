@@ -72,16 +72,29 @@ FROM athlete_events
 GROUP BY team;
 
 -- use pivot to show medal distribution
-SELECT team, 
+-- using NOC table 
+SELECT n.region, 
 		SUM(CASE WHEN medal = 'Gold' THEN 1 ELSE 0 END) AS Gold,
         SUM(CASE WHEN medal = 'Silver' THEN 1 ELSE 0 END) AS Silver,
         SUM(CASE WHEN medal = 'Bronze' THEN 1 ELSE 0 END) AS Bronze,
         (SUM(CASE WHEN Medal = 'Gold' THEN 1 ELSE 0 END) + 
 		 SUM(CASE WHEN Medal = 'Silver' THEN 1 ELSE 0 END) + 
 		 SUM(CASE WHEN Medal = 'Bronze' THEN 1 ELSE 0 END)) AS Total_Medals_From_Athletes
-FROM athlete_events
-GROUP BY team
+FROM athlete_events a
+JOIN noc_regions n 
+ON a.NOC = n.NOC
+GROUP BY n.region
 ORDER BY Total_Medals_From_Athletes DESC;
+
+SELECT 
+    year, n.region,
+    COUNT(*) AS total_athletes,
+    COUNT(CASE WHEN medal != 'NA' THEN 1 END) AS medalists
+FROM athlete_events a
+JOIN noc_regions n 
+ON a.NOC = n.NOC
+GROUP BY year, n.region
+ORDER BY year;
 
 -- Note figures may be higher, in this dataset, the records are counting indidvual athletes and will count their medal even in team sports,
 -- eg; if football, say AUS wins gold then 11 players get gold but offically the olypics will count this as one gold medal.
@@ -143,8 +156,8 @@ SELECT Name, Team, Sport, COUNT(Medal) AS num_medals
 FROM athlete_events
 WHERE Medal != 'NA'
 GROUP BY Name, Team, Sport
-ORDER BY num_medals DESC
-LIMIT 10;
+ORDER BY num_medals DESC;
+-- LIMIT 10;
 
 /*Average Height and Weight by Sport:
 Find the average height and weight of athletes for each sport. */
