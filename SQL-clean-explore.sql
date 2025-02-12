@@ -173,7 +173,10 @@ ORDER BY Year, Medal;
 /*Top 10 Most Successful Athletes:
 Identify athletes with the highest number of medals.
 */
-SELECT Name, Team, Sport, COUNT(Medal) AS num_medals
+SELECT Name, Team, Sport, COUNT(Medal) AS num_medals,
+		COUNT(CASE WHEN Medal = 'Gold' THEN 1 END) AS Gold_Medals,
+       COUNT(CASE WHEN Medal = 'Silver' THEN 1 END) AS Silver_Medals,
+       COUNT(CASE WHEN Medal = 'Bronze' THEN 1 END) AS Bronze_Medals
 FROM athlete_events
 WHERE Medal != 'NA'
 GROUP BY Name, Team, Sport
