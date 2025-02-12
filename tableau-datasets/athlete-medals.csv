@@ -1,5 +1,5 @@
 Name,Team,Sport,num_medals
-"Michael Fred Phelps, II","United States",Swimming,28
+"Michael Fred Phelps  II","United States",Swimming,28
 "Larysa Semenivna Latynina (Diriy-)","Soviet Union",Gymnastics,18
 "Nikolay Yefimovich Andrianov","Soviet Union",Gymnastics,15
 "Ole Einar Bjrndalen",Norway,Biathlon,13
@@ -7,7 +7,7 @@ Name,Team,Sport,num_medals
 "Takashi Ono",Japan,Gymnastics,13
 "Borys Anfiyanovych Shakhlin","Soviet Union",Gymnastics,13
 "Jennifer Elisabeth "Jenny"" Thompson (-Cumpelik)"","United States",Swimming,12
-"Dara Grace Torres (-Hoffman, -Minas)","United States",Swimming,12
+"Dara Grace Torres (-Hoffman  -Minas)","United States",Swimming,12
 "Natalie Anne Coughlin (-Hall)","United States",Swimming,12
 "Sawao Kato",Japan,Gymnastics,12
 "Aleksey Yuryevich Nemov",Russia,Gymnastics,12
@@ -29,7 +29,7 @@ Name,Team,Sport,num_medals
 "Franziska van Almsick",Germany,Swimming,10
 "Gerard Theodor Hubert Van Innis",Belgium,Archery,10
 "Aladr Gerevich (-Gerei)",Hungary,Fencing,10
-"Gary Wayne Hall, Jr.","United States",Swimming,10
+"Gary Wayne Hall  Jr.","United States",Swimming,10
 "gnes Keleti-Srkny (Klein)",Hungary,Gymnastics,10
 "Edy Sixten Jernberg",Sweden,"Cross Country Skiing",9
 "Leisel Marie Jones",Australia,Swimming,9
@@ -63,7 +63,7 @@ Name,Team,Sport,num_medals
 "Kjetil Andr Aamodt",Norway,"Alpine Skiing",8
 "Nathan Ghar-Jun Adrian","United States",Swimming,8
 "Usain St. Leo Bolt",Jamaica,Athletics,8
-"Margit Korondi (Kronstein-, -Plachy, -Szalay)",Hungary,Gymnastics,8
+"Margit Korondi (Kronstein-  -Plachy  -Szalay)",Hungary,Gymnastics,8
 "Katalin Kovcs",Hungary,Canoeing,8
 "Bradley Marc Wiggins","Great Britain",Cycling,8
 "Irene Karlijn "Ireen"" Wst"",Netherlands,"Speed Skating",8
@@ -77,8 +77,8 @@ Name,Team,Sport,num_medals
 "Philippe Louis Eugne Cattiau",France,Fencing,8
 "Inge de Bruijn",Netherlands,Swimming,8
 "Roger Franois Ducret",France,Fencing,8
-"Kornelia Ender (-Matthes, -Grummt)","East Germany",Swimming,8
-"Karin Enke-Kania (-Busch-, -Richter)","East Germany","Speed Skating",8
+"Kornelia Ender (-Matthes  -Grummt)","East Germany",Swimming,8
+"Karin Enke-Kania (-Busch-  -Richter)","East Germany","Speed Skating",8
 "Sofiya Ivanovna Muratova (Poduzdova-)","Soviet Union",Gymnastics,8
 "Gunda Niemann-Stirnemann-Kleemann",Germany,"Speed Skating",8
 "Apolo Anton Ohno","United States","Short Track Speed Skating",8
@@ -123,13 +123,13 @@ Name,Team,Sport,num_medals
 "Reiner Klimke","West Germany",Equestrianism,7
 "Pl dm Kovcs",Hungary,Fencing,7
 "Sven Kramer",Netherlands,"Speed Skating",7
-"Shannon Lee Miller (-Phillips, -Falconetti)","United States",Gymnastics,7
+"Shannon Lee Miller (-Phillips  -Falconetti)","United States",Gymnastics,7
 "Lon Ernest Moreaux",France,Shooting,7
 "Aliya Farkhatovna Mustafina",Russia,Gymnastics,7
 "Ivan Patzaichin",Romania,Canoeing,7
 "Aaron Wells Peirsol","United States",Swimming,7
 "Pavel Serafimovich Lednyov","Soviet Union","Modern Pentathlon",7
-"Willis Augustus Lee, Jr.","United States",Shooting,7
+"Willis Augustus Lee  Jr.","United States",Shooting,7
 "Lisbeth Constance "Libby"" Lenton-Trickett"",Australia,Swimming,7
 "Einar Liberg",Norway,Shooting,7
 "Eero Antero Mntyranta",Finland,"Cross Country Skiing",7
@@ -142,7 +142,7 @@ Name,Team,Sport,num_medals
 "Yukio Endo",Japan,Gymnastics,7
 "Yuliya Anatolyevna Chepalova",Russia,"Cross Country Skiing",6
 "Veronica Cogeanu-Cochela",Romania,Rowing,6
-"Lszl Cseh, Jr.",Hungary,Swimming,6
+"Lszl Cseh  Jr.",Hungary,Swimming,6
 "Georgeta Damian-Andrunache",Romania,Rowing,6
 "Giuseppe Delfino",Italy,Fencing,6
 "Piero D'Inzeo",Italy,Equestrianism,6
@@ -225,7 +225,7 @@ Name,Team,Sport,num_medals
 "Cynthia Nicole "Cindy"" Klassen"",Canada,"Speed Skating",6
 "Michael George Klim",Australia,Swimming,6
 "Rita Kbn",Hungary,Canoeing,6
-"Olga Valentinovna Korbut (-Bortkevich, -Voynich)","Soviet Union",Gymnastics,6
+"Olga Valentinovna Korbut (-Bortkevich  -Voynich)","Soviet Union",Gymnastics,6
 "Janica Kosteli",Croatia,"Alpine Skiing",6
 "Danuta Kozk",Hungary,Canoeing,6
 "Samuel Bode Miller","United States","Alpine Skiing",6
@@ -243,7 +243,7 @@ Name,Team,Sport,num_medals
 "Andrea Pollack (-Pinske)","East Germany",Swimming,6
 "Hryhoriy Anatoliyovych Misiutin","Unified Team",Gymnastics,5
 "Anita Moen-Guidon (-Moen Bonden)",Norway,"Cross Country Skiing",5
-"Pedro Pablo Morales, Jr.","United States",Swimming,5
+"Pedro Pablo Morales  Jr.","United States",Swimming,5
 "Daniel Yves Morelon",France,Cycling,5
 "Valentin Ivanovich Muratov","Soviet Union",Gymnastics,5
 "Bogdan Musiol","East Germany-1",Bobsleigh,5
@@ -357,7 +357,7 @@ Name,Team,Sport,num_medals
 "Elena Georgescu-Nedelcu",Romania,Rowing,5
 "Gina Elena Gogean (-Groza)",Romania,Gymnastics,5
 "Galina Yevgenyevna Gorokhova","Soviet Union",Fencing,5
-"Shane Elizabeth Gould (-Innis, -Nelms)",Australia,Swimming,5
+"Shane Elizabeth Gould (-Innis  -Nelms)",Australia,Swimming,5
 "Torben Schmidt Grael",Brazil,Sailing,5
 "Katherine Jane Grainger","Great Britain",Rowing,5
 "Delorez Florence Griffith Joyner","United States",Athletics,5
@@ -502,7 +502,7 @@ Name,Team,Sport,num_medals
 "Massimiliano Edgar Rosolino",Italy,Swimming,4
 "Jeffrey Norman "Jeff"" Rouse"","United States",Swimming,4
 "Florian Georges Philippe Rousseau",France,Cycling,4
-"Wilma Glodean Rudolph (-Ward, -Eldridge)","United States",Athletics,4
+"Wilma Glodean Rudolph (-Ward  -Eldridge)","United States",Athletics,4
 "Angela Marie Ruggiero","United States","Ice Hockey",4
 "Inna Valeryevna Ryskal","Soviet Union",Volleyball,4
 "Henri Julius Reverony Saint Cyr",Sweden,Equestrianism,4
@@ -510,7 +510,7 @@ Name,Team,Sport,num_medals
 "Ulla Salzgeber (Helbing-)",Germany,Equestrianism,4
 "Arnzazu Isabel Mara "Arantxa"" Snchez Vicario"",Spain,Tennis,4
 "Kaitlin Shea Sandeno (-Hogan)","United States",Swimming,4
-"Summer Elisabeth Sanders (-Henderson, -Schlopy)","United States",Swimming,4
+"Summer Elisabeth Sanders (-Henderson  -Schlopy)","United States",Swimming,4
 "Viktor Saneyev","Soviet Union",Athletics,4
 "Salvatore Sanzo",Italy,Fencing,4
 "Ole Andreas Sther",Norway,Shooting,4
@@ -582,7 +582,7 @@ Name,Team,Sport,num_medals
 "Andrea Bod-Molnr",Hungary,Gymnastics,4
 "Svetlana Leonidovna Boginskaya","Soviet Union",Gymnastics,4
 "Ato Jabari Boldon","Trinidad and Tobago",Athletics,4
-"Gustaf Adolf Boltenstern, Jr.",Sweden,Equestrianism,4
+"Gustaf Adolf Boltenstern  Jr.",Sweden,Equestrianism,4
 "Beniamino Bonomi",Italy,Canoeing,4
 "Gustavo Frana Borges",Brazil,Swimming,4
 "Eva Boskov-Vchtov (-Hlavkov)",Czechoslovakia,Gymnastics,4
@@ -614,7 +614,7 @@ Name,Team,Sport,num_medals
 "Elmer Konstantin Niklander",Finland,Athletics,4
 "Michael Nikolay","East Germany",Gymnastics,4
 "Stefan Nimke",Germany,Cycling,4
-"Petter Northug, Jr.",Norway,"Cross Country Skiing",4
+"Petter Northug  Jr.",Norway,"Cross Country Skiing",4
 "Renzo Nostini",Italy,Fencing,4
 "Igor Novikov","Soviet Union","Modern Pentathlon",4
 "Marlies Oelsner-Ghr","East Germany",Athletics,4
@@ -762,13 +762,13 @@ Name,Team,Sport,num_medals
 "Johan Rudolf Svensson",Sweden,Wrestling,4
 "Bence Szab",Hungary,Fencing,4
 "Gabriella Timea Szab",Hungary,Canoeing,4
-"Istvn Szivs, Jr.",Hungary,"Water Polo",4
+"Istvn Szivs  Jr.",Hungary,"Water Polo",4
 "Robert Blyth Tait","New Zealand",Equestrianism,4
 "Jared Tallent",Australia,Athletics,4
 "Luigi Tarantino",Italy,Fencing,4
 "Sergey Petrovich Tarasov",Russia,Biathlon,4
 "Diana Lurena Taurasi","United States",Basketball,4
-"Angelo F. Taylor, Jr.","United States",Athletics,4
+"Angelo F. Taylor  Jr.","United States",Athletics,4
 "Artur Borisovich Taymazov",Uzbekistan,Wrestling,4
 "Einari Allan Tersvirta",Finland,Gymnastics,4
 "Sergey Yuryevich Tetyukhin",Russia,Volleyball,4
@@ -837,14 +837,14 @@ Name,Team,Sport,num_medals
 "Ingrid Gulbin-Engel-Krmer",Germany,Diving,4
 "Guo Shuang",China,Cycling,4
 "Sven Tomas Gustafson",Sweden,"Speed Skating",4
-"Toini Gustafsson (Karvonen-, -Rnnlund)",Sweden,"Cross Country Skiing",4
+"Toini Gustafsson (Karvonen-  -Rnnlund)",Sweden,"Cross Country Skiing",4
 "Torsten Ren Gutsche",Germany,Canoeing,4
 "August Gttinger",Switzerland,Gymnastics,4
 "Zsolt Gyulay",Hungary,Canoeing,4
 "Georg Hackl",Germany,Luge,4
 "Kosuke Hagino",Japan,Swimming,4
 "Charles Archibald "Archie"" Hahn"","United States",Athletics,4
-"Gary Wayne Hall, Sr.","United States",Swimming,4
+"Gary Wayne Hall  Sr.","United States",Swimming,4
 "Charles Hamelin",Canada,"Short Track Speed Skating",4
 "Sarah Kathryn Hammer (-Sparks)","United States",Cycling,4
 "Hermann Hnggi",Switzerland,Gymnastics,4
@@ -862,7 +862,7 @@ Name,Team,Sport,num_medals
 "Olaf Heukrodt","East Germany",Canoeing,4
 "Emilie-Joane Heymans",Canada,Diving,4
 "Charles Buchanan "Charlie"" Hickcox"","United States",Swimming,4
-"Harry Livingston Hillman, Jr.","United States",Athletics,4
+"Harry Livingston Hillman  Jr.","United States",Athletics,4
 "Pavol Hochschorner",Slovakia,Canoeing,4
 "Peter Hochschorner",Slovakia,Canoeing,4
 "Maria Hfl-Riesch",Germany,"Alpine Skiing",4
@@ -997,7 +997,7 @@ Name,Team,Sport,num_medals
 "Tivadar Kanizsa",Hungary,"Water Polo",3
 "Hamit Kaplan",Turkey,Wrestling,3
 "Nikola Karabatic",France,Handball,3
-"Irn Karcsics-Daruhzi (-Krpti, -Kubisch)",Hungary,Gymnastics,3
+"Irn Karcsics-Daruhzi (-Krpti  -Kubisch)",Hungary,Gymnastics,3
 "Larysa Oleksandrivna Karlova","Soviet Union",Handball,3
 "Pertti Johannes Karppinen",Finland,Rowing,3
 "Aki Tapani Karvonen",Finland,"Cross Country Skiing",3
@@ -1025,7 +1025,7 @@ Name,Team,Sport,num_medals
 "Tanyu Khristov Kiryakov",Bulgaria,Shooting,3
 "Mariya Aleksandrovna Kiselyova",Russia,"Synchronized Swimming",3
 "Gergely "Gerg"" Kiss"",Hungary,"Water Polo",3
-"Gza Kiss (Drippei-, -Klein)",Hungary,Swimming,3
+"Gza Kiss (Drippei-  -Klein)",Hungary,Swimming,3
 "Piet Kleine",Netherlands,"Speed Skating",3
 "Ingrid Klimke (-Busacker)",Germany,Equestrianism,3
 "Ulrika Margareta Knape (-Lindberg)",Sweden,Diving,3
@@ -1071,7 +1071,7 @@ Name,Team,Sport,num_medals
 "Birger Adolf Wasenius",Finland,"Speed Skating",3
 "Lillian Debra "Pokey"" Watson (-Richardson)"","United States",Swimming,3
 "Ernest James "Ernie"" Webb"","Great Britain",Athletics,3
-"Monika Weber-Koszto (-Schreck, -Clasen)",Germany,Fencing,3
+"Monika Weber-Koszto (-Schreck  -Clasen)",Germany,Fencing,3
 "Edit Weckinger-Pernyi (Vsrhelyi-)",Hungary,Gymnastics,3
 "Johan Verner Weckman",Finland,Wrestling,3
 "Ulrich Wehling","East Germany","Nordic Combined",3
@@ -1082,7 +1082,7 @@ Name,Team,Sport,num_medals
 "Lidewij Marsia Maria Welten",Netherlands,Hockey,3
 "Timo We",Germany,Hockey,3
 "Carl Oscar Westergren",Sweden,Wrestling,3
-"Gabriele Wetzko (-Hartung, -Frischke, -Khne)","East Germany",Swimming,3
+"Gabriele Wetzko (-Hartung  -Frischke  -Khne)","East Germany",Swimming,3
 "Mary Rebecca Whipple","United States",Rowing,3
 "Pernilla Christina Wiberg (-Bjerke)",Sweden,"Alpine Skiing",3
 "Linnea Susanne Wiberg-Gunnarsson",Sweden,Canoeing,3
@@ -1091,7 +1091,7 @@ Name,Team,Sport,num_medals
 "Andreas Widhlzl",Austria,"Ski Jumping",3
 "Frank Wiegand",Germany,Swimming,3
 "Tim Wiesktter",Germany,Canoeing,3
-"Lones Wesley Wigger, Jr.","United States",Shooting,3
+"Lones Wesley Wigger  Jr.","United States",Shooting,3
 "David Andrew Wilkie","Great Britain",Swimming,3
 "Brooke Wilkins",Australia,Softball,3
 "Shericka Nicola Williams",Jamaica,Athletics,3
@@ -1215,7 +1215,7 @@ Name,Team,Sport,num_medals
 "Holger Behrendt","East Germany",Gymnastics,3
 "Jan Behrendt",Germany-1,Luge,3
 "Regla Maritza Bell McKenzie",Cuba,Volleyball,3
-"Melissa Louise Belote (-Hamlin, -Ripley)","United States",Swimming,3
+"Melissa Louise Belote (-Hamlin  -Ripley)","United States",Swimming,3
 "Yevgeny Prokopyevich Belyayev","Soviet Union","Cross Country Skiing",3
 "Tibor Benedek",Hungary,"Water Polo",3
 "Meaghan Benfeito",Canada,Diving,3
@@ -1228,13 +1228,13 @@ Name,Team,Sport,num_medals
 "Lszl Berti (Berty)",Hungary,Fencing,3
 "Sergio Bianchetto",Italy,Cycling,3
 "Christoph Bieler",Austria,"Nordic Combined",3
-"Mary Denise Bignal-Rand (-Toomey, -Reese)","Great Britain",Athletics,3
+"Mary Denise Bignal-Rand (-Toomey  -Reese)","Great Britain",Athletics,3
 "Bino Bini",Italy,Fencing,3
 "Pter Biros",Hungary,"Water Polo",3
 "tefan Birtalan",Romania,Handball,3
 "Roger Anthony Black","Great Britain",Athletics,3
 "Ethelda Marguerite Bleibtrey (-Schlatke)","United States",Swimming,3
-"Grard Blitz, Jr.",Belgium,"Water Polo",3
+"Grard Blitz  Jr.",Belgium,"Water Polo",3
 "Jan Blokhuijsen",Netherlands,"Speed Skating",3
 "Wendy Lou Lansbach Boglioli","United States",Swimming,3
 "Philippe Alain Boisse",France,Fencing,3
@@ -1334,7 +1334,7 @@ Name,Team,Sport,num_medals
 "Wolfgang Linger",Austria-1,Luge,3
 "Renate Lingor",Germany,Football,3
 "Pentti Tapio Aleksi Linnosvuo (Lindroos-)",Finland,Shooting,3
-"Liselott Linsenhoff (Schindling-, -Rheinberger)","West Germany",Equestrianism,3
+"Liselott Linsenhoff (Schindling-  -Rheinberger)","West Germany",Equestrianism,3
 "Marie-Louise Jean Josphine Linssen-Vaessen",Netherlands,Swimming,3
 "Liu Ou",China,"Synchronized Swimming",3
 "Nicole Dawn Livingstone-Stevenson (-Clayton)",Australia,Swimming,3
@@ -1412,7 +1412,7 @@ Name,Team,Sport,num_medals
 "Antonio Ricardo McKay","United States",Athletics,3
 "Alexander Timothy "Tim"" McKee"","United States",Swimming,3
 "Josephine Eveline McKim (-Chalmers)","United States",Swimming,3
-"Frank Edward McKinney, Jr.","United States",Swimming,3
+"Frank Edward McKinney  Jr.","United States",Swimming,3
 "Julianne Lyn McNamara (-Zeile)","United States",Gymnastics,3
 "Richard John Hannay Meade","Great Britain",Equestrianism,3
 "Jack Chapman Medica","United States",Swimming,3
@@ -1455,7 +1455,7 @@ Name,Team,Sport,num_medals
 "Peter "Pete"" Reed"","Great Britain",Rowing,3
 "Jean Reich",Switzerland,Shooting,3
 "Heidemarie "Heidi"" Reineck"","West Germany",Swimming,3
-"Rica Reinisch (-Assmann, -Neumann)","East Germany",Swimming,3
+"Rica Reinisch (-Assmann  -Neumann)","East Germany",Swimming,3
 "Felipe Reyes Cabaas",Spain,Basketball,3
 "Mark Jeffrey Reynolds","United States",Sailing,3
 "Stephanie Louise "Steph"" Rice"",Australia,Swimming,3
@@ -1470,12 +1470,12 @@ Name,Team,Sport,num_medals
 "Teddy Pierre-Marie Riner",France,Judo,3
 "Bruce Richard Robertson",Canada,Swimming,3
 "Lawson Robertson","United States",Athletics,3
-"Carl Joseph Robie, III","United States",Swimming,3
+"Carl Joseph Robie  III","United States",Swimming,3
 "Elizabeth M. "Betty"" Robinson (-Schwartz)"","United States",Athletics,3
 "Clint David Robinson",Australia,Canoeing,3
 "David Maurice Robinson","United States",Basketball,3
 "Peter Drake Rocca","United States",Swimming,3
-"Irina Konstantinovna Rodnina (-Zaytseva, -Minkovskaya)","Soviet Union-1","Figure Skating",3
+"Irina Konstantinovna Rodnina (-Zaytseva  -Minkovskaya)","Soviet Union-1","Figure Skating",3
 "Rodrigo "Rodrigo"" Santana"",Brazil,Volleyball,3
 "Frank-Peter Roetsch","East Germany",Biathlon,3
 "Nina Apollonovna Romashkova-Ponomaryova","Soviet Union",Athletics,3
@@ -1553,7 +1553,7 @@ Name,Team,Sport,num_medals
 "Harbinder Singh Chimni",India,Hockey,3
 "Prithipal Singh",India,Hockey,3
 "Randhir Singh Gentle",India,Hockey,3
-"Balbir Singh Dosanjh, Sr.",India,Hockey,3
+"Balbir Singh Dosanjh  Sr.",India,Hockey,3
 "Cornelia Sirch (Embacher-)","East Germany",Swimming,3
 "Sture Sivertsen",Norway,"Cross Country Skiing",3
 "Jan Niklas Patrik Sjberg",Sweden,Athletics,3
@@ -1628,14 +1628,14 @@ Name,Team,Sport,num_medals
 "Elin Nilsen",Norway,"Cross Country Skiing",3
 "Karl-Erik Nilsson",Sweden,Wrestling,3
 "Tadahiro Nomura",Japan,Judo,3
-"Martha (Mrta) Maria Norelius (-McAllister, -Wright, -Brown)","United States",Swimming,3
+"Martha (Mrta) Maria Norelius (-McAllister  -Wright  -Brown)","United States",Swimming,3
 "Dezs Novk",Hungary,Football,3
 "Teppo Kalevi Numminen",Finland,"Ice Hockey",3
 "Stacey Annette Nuveman (-Deniz)","United States",Softball,3
 "Inger Helene Nybrten",Norway,"Cross Country Skiing",3
 "O Gyo-Mun","South Korea",Archery,3
 "Ecaterina Oancia (Iane-)",Romania,Rowing,3
-"William Parry O'Brien, Jr.","United States",Athletics,3
+"William Parry O'Brien  Jr.","United States",Athletics,3
 "Leah Marie O'Brien-Amico","United States",Softball,3
 "Hugues Obry",France,Fencing,3
 "David O'Connor","United States",Equestrianism,3
@@ -1853,7 +1853,7 @@ Name,Team,Sport,num_medals
 "Raimo Ilmari Helminen",Finland,"Ice Hockey",3
 "David Peter "Dave"" Hemery"","Great Britain",Athletics,3
 "Deon Marie Hemmings",Jamaica,Athletics,3
-"Sonja Henie (-Topping, -Gardiner, -Onstad)",Norway,"Figure Skating",3
+"Sonja Henie (-Topping  -Gardiner  -Onstad)",Norway,"Figure Skating",3
 "Frank Sherman Henry","United States",Equestrianism,3
 "Jodie Clare Henry",Australia,Swimming,3
 "Heo Sun-Yeong","South Korea",Handball,3
@@ -1897,7 +1897,7 @@ Name,Team,Sport,num_medals
 "Brandi Denise Chastain","United States",Football,3
 "Yuriy Volodymyrovych Cheban",Ukraine,Canoeing,3
 "William Joseph N. "Joey"" Cheek"","United States","Speed Skating",3
-"Chandra Danette Cheeseborough (-Shellman, -Guice)","United States",Athletics,3
+"Chandra Danette Cheeseborough (-Shellman  -Guice)","United States",Athletics,3
 "Cheng Fei",China,Gymnastics,3
 "Sergey Vladimirovich Chepikov",Russia,Biathlon,3
 "Pierluigi Chicca",Italy,Fencing,3
@@ -2067,7 +2067,7 @@ Name,Team,Sport,num_medals
 "Gabriela Szabo (-Gyngyssy)",Romania,Athletics,3
 "Szilvia Szab",Hungary,Canoeing,3
 "Zoltn Szcsi",Hungary,"Water Polo",3
-"Istvn Szivs, Sr.",Hungary,"Water Polo",3
+"Istvn Szivs  Sr.",Hungary,"Water Polo",3
 "Imre Szllsi",Hungary,Canoeing,3
 "Armas Rudolf Taipale",Finland,Athletics,3
 "Gholam Reza Takhti",Iran,Wrestling,3
@@ -2294,7 +2294,7 @@ Name,Team,Sport,num_medals
 "Ellen Strophal-Streidt (-Wendland-)","East Germany",Athletics,2
 "Kerri Allyson Strug (-Fischer)","United States",Gymnastics,2
 "Ludwig Fritz Ernst Stubbendorff",Germany,Equestrianism,2
-"Christa Stubnick (Seliger-, -Fischer)",Germany,Athletics,2
+"Christa Stubnick (Seliger-  -Fischer)",Germany,Athletics,2
 "Jennifer "Jenn"" Stuczynski-Suhr"","United States",Athletics,2
 "Ivar Stukolkin","Soviet Union",Swimming,2
 "Chandra Lavon Sturrup",Bahamas,Athletics,2
@@ -2342,7 +2342,7 @@ Name,Team,Sport,num_medals
 "Kroly Szittya (Schfer)",Hungary,"Water Polo",2
 "Jzef Szmidt (-Schmidt)",Poland,Athletics,2
 "Zsuzsanna "Zsuzsa"" Szcs"",Hungary,Fencing,2
-"Katalin Szke (Homonnai-, -Markovits, -Domjan)",Hungary,Swimming,2
+"Katalin Szke (Homonnai-  -Markovits  -Domjan)",Hungary,Swimming,2
 "Robin Szolkowy",Germany-1,"Figure Skating",2
 "Lszl Szolls",Hungary-1,"Figure Skating",2
 "Tams Szombathelyi",Hungary,"Modern Pentathlon",2
@@ -2375,7 +2375,7 @@ Name,Team,Sport,num_medals
 "Yoshitomo Tani",Japan,Baseball,2
 "Tnia Maria "Tnia Maranho"" Pereira Ribeiro"",Brazil,Football,2
 "Ayumi Tanimoto",Japan,Judo,2
-"Iris Vera Tanner (-Murrell, -Curran)","Great Britain",Swimming,2
+"Iris Vera Tanner (-Murrell  -Curran)","Great Britain",Swimming,2
 "Tao Luna",China,Shooting,2
 "Nils Bertil Tpp (Persson-)",Sweden,"Cross Country Skiing",2
 "Carlyle Carrol Tapsell",India,Hockey,2
@@ -2440,7 +2440,7 @@ Name,Team,Sport,num_medals
 "Rolf Bernt Thorsen",Norway,Rowing,2
 "Thomas Thorstensen",Norway,Gymnastics,2
 "Thor Thorvaldsen",Pan,Sailing,2
-"Petra Thmer (-Deckert, -Katzur)","East Germany",Swimming,2
+"Petra Thmer (-Deckert  -Katzur)","East Germany",Swimming,2
 "Karl-Heinz Thun","East Germany",Sailing,2
 "Karin Thrig (-Bucher)",Switzerland,Cycling,2
 "Arto Kasperi Tiainen",Finland,"Cross Country Skiing",2
@@ -2652,7 +2652,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Georg Gustaf Wilhelm von Braun",Sweden,Equestrianism,2
 "Wilhelmina Catherine "Billie"" von Bremen (-Asch)"","United States",Athletics,2
 "Friedrich Leopold Harry von Rochow",Germany,Equestrianism,2
-"Clarence von Rosen, Jr.",Sweden,Equestrianism,2
+"Clarence von Rosen  Jr.",Sweden,Equestrianism,2
 "Pauline Sophie von Weiler (-Le Poole)",Netherlands,Hockey,2
 "Peter Vonhof","West Germany",Cycling,2
 "Igor Vori",Croatia,Handball,2
@@ -2691,7 +2691,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Oleg Alekseyevich Protopopov","Soviet Union-1","Figure Skating",2
 "Nlson Prudncio",Brazil,Athletics,2
 "Valentina Aleksandrovna Prudskova","Soviet Union",Fencing,2
-"Vclav Penika, Sr.",Czechoslovakia,Weightlifting,2
+"Vclav Penika  Sr.",Czechoslovakia,Weightlifting,2
 "Nikolay Georgiyevich Puchkov","Soviet Union","Ice Hockey",2
 "Maricica Puic (Luca-)",Romania,Athletics,2
 "Imre Pulai",Hungary,Canoeing,2
@@ -2741,7 +2741,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Maximilian "Max"" Raub"",Austria,Canoeing,2
 "Hubert Raudaschl",Austria,Sailing,2
 "Mario Ravagnan",Italy,Fencing,2
-"Katherine Louise Rawls (-Thompson, -Green)","United States",Diving,2
+"Katherine Louise Rawls (-Thompson  -Green)","United States",Diving,2
 "Petrus Josephus "Piet"" Raymakers"",Netherlands,Equestrianism,2
 "Nikola Raen",Serbia,"Water Polo",2
 "Carla Rebecchi",Argentina,Hockey,2
@@ -2793,7 +2793,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Lars Peter Riedel",Germany,Athletics,2
 "Fabian Riele",Germany,"Nordic Combined",2
 "Aileen Muriel Riggin (-Soule)","United States",Diving,2
-"Frank Stahl Righeimer, Jr.","United States",Fencing,2
+"Frank Stahl Righeimer  Jr.","United States",Fencing,2
 "Rolando Rigoli",Italy,Fencing,2
 "Guillermo Rigondeaux Ortz",Cuba,Boxing,2
 "Hege Riise",Norway,Football,2
@@ -2870,7 +2870,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Alfredo Rota",Italy,Fencing,2
 "Otto Rothe",Germany,Equestrianism,2
 "Sven Gunther Rothenberger",Netherlands,Equestrianism,2
-"Keena Ruth Rothhammer (-Weisbly, -Zorovich)","United States",Swimming,2
+"Keena Ruth Rothhammer (-Weisbly  -Zorovich)","United States",Swimming,2
 "Jrg Rthlisberger",Switzerland,Judo,2
 "Arthur Dale Rothrock","United States",Shooting,2
 "Silke Rottenberg",Germany,Football,2
@@ -2892,7 +2892,7 @@ Triyatno,Indonesia,Weightlifting,2
 "David Lekuta Rudisha",Kenya,Athletics,2
 "Yelena Grigoryevna Rudkovskaya","Unified Team",Swimming,2
 "Frank Rhle","East Germany",Rowing,2
-"Ute Rhrold (-Bhme, -Klawonn)","East Germany",Luge,2
+"Ute Rhrold (-Bhme  -Klawonn)","East Germany",Luge,2
 "Iulic Ruican",Romania,Rowing,2
 "Kelly Kristen Rulon","United States","Water Polo",2
 "Raema Lisa Rumbewas",Indonesia,Weightlifting,2
@@ -2954,7 +2954,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Nino Salukvadze (-Machavariani)","Soviet Union",Shooting,2
 "Ilaria Salvatori",Italy,Fencing,2
 "Luigi Paolo Salvi",Italy,Gymnastics,2
-"Tetiana Volodymyrivna Samolenko-Dorovskykh (Khamitova-, -Apaicheva)","Soviet Union",Athletics,2
+"Tetiana Volodymyrivna Samolenko-Dorovskykh (Khamitova-  -Apaicheva)","Soviet Union",Athletics,2
 "Adriana Ramos Samuel",Brazil-2,"Beach Volleyball",2
 "Alf Tommy Samuelsson",Sweden,"Ice Hockey",2
 "Varteres Varteresovich Samurgashev",Russia,Wrestling,2
@@ -3104,7 +3104,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Romano Sgheiz",Italy,Rowing,2
 "Torul sgrov",Azerbaijan,Wrestling,2
 "Vladimir Nikolayevich Shadrin","Soviet Union","Ice Hockey",2
-"Galina Yakovlevna Shamray (Rudko-, -Ilyina)","Soviet Union",Gymnastics,2
+"Galina Yakovlevna Shamray (Rudko-  -Ilyina)","Soviet Union",Gymnastics,2
 "Ibrahim Hassanien Shams",Egypt,Weightlifting,2
 "Shan Ying",China,Swimming,2
 "Aida Vladimirovna Shanayeva",Russia,Fencing,2
@@ -3163,7 +3163,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Fyodor Petrovich Simashov","Soviet Union","Cross Country Skiing",2
 "Branislav Simi",Yugoslavia,Wrestling,2
 "Marian Simion",Romania,Boxing,2
-"Floyd Macon Simmons, Jr.","United States",Athletics,2
+"Floyd Macon Simmons  Jr.","United States",Athletics,2
 "Andrew James Simpson","Great Britain",Sailing,2
 "Christine Margaret Sinclair",Canada,Football,2
 "Ajitpal Singh Kular",India,Hockey,2
@@ -3245,7 +3245,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Aleksandr Timofeyevich Aksinin","Soviet Union",Athletics,2
 "Fehaid Al-Deehani",Kuwait,Shooting,2
 "Noor Alam",Pakistan,Hockey,2
-"Tenley Emma Albright (-Gardiner, -Blakely)","United States","Figure Skating",2
+"Tenley Emma Albright (-Gardiner  -Blakely)","United States","Figure Skating",2
 "Andrs Aldama Cabrera",Cuba,Boxing,2
 "Jo Qesem Ayela Aleh","New Zealand",Sailing,2
 "Larisa Aleksandrova-Popova","Soviet Union",Rowing,2
@@ -3287,7 +3287,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Olle Henrik Martin Anderberg",Sweden,Wrestling,2
 "Camilla Rseler Andersen",Denmark,Handball,2
 "Carl Albert Andersen",Norway,Gymnastics,2
-"Greta Marie Andersen (-Sonnichsen, -Veress)",Denmark,Swimming,2
+"Greta Marie Andersen (-Sonnichsen  -Veress)",Denmark,Swimming,2
 "Jrgen Marius Andersen",Norway,Gymnastics,2
 "Anderson de Oliveira Rodrigues",Brazil,Volleyball,2
 "Gary Lee Anderson","United States",Shooting,2
@@ -3334,7 +3334,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Marcus Mills Pomeroy "Mark"" Arie"","United States",Shooting,2
 "Yuko Arimori (-Wilson)",Japan,Athletics,2
 "Pedro Arispe",Uruguay,Football,2
-"Heather Joy Armitage (-Young, -McClelland)","Great Britain",Athletics,2
+"Heather Joy Armitage (-Young  -McClelland)","Great Britain",Athletics,2
 "Elizabeth "Betsey"" Armstrong"","United States","Water Polo",2
 "Duncan John D'Arcy Armstrong",Australia,Swimming,2
 "Donald John "Don"" Arnold"",Canada,Rowing,2
@@ -3363,7 +3363,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Tariq Aziz",Pakistan,Hockey,2
 "Roland Baar",Germany,Rowing,2
 "Svetlana Viktorovna Babanina","Soviet Union",Swimming,2
-"Jack Babashoff, Jr.","United States",Swimming,2
+"Jack Babashoff  Jr.","United States",Swimming,2
 "Alonzo Carl Babers","United States",Athletics,2
 "Sorin Babii",Romania,Shooting,2
 "Bjrn Bach",Germany,Canoeing,2
@@ -3501,7 +3501,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Oleksandr Mykolaiovych Beresh",Ukraine,Gymnastics,2
 "Yury Viktorovich Berezhko",Russia,Volleyball,2
 "Liubov Ivanivna Berezhna-Odynokova","Soviet Union",Handball,2
-"Aina Berg (-Brolin, -Heinze)",Sweden,Swimming,2
+"Aina Berg (-Brolin  -Heinze)",Sweden,Swimming,2
 "Aki-Petteri Arvid "Aki"" Berg"",Finland,"Ice Hockey",2
 "Eero Edvin Berg",Finland,Athletics,2
 "Lindsey Napela Berg","United States",Volleyball,2
@@ -3610,7 +3610,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Ageeth Boomgaardt",Netherlands,Hockey,2
 "Manut Boonjumnong",Thailand,Boxing,2
 "Mitchell Jay "Mitch"" Booth"",Australia,Sailing,2
-"Carlos Austin Boozer, Jr.","United States",Basketball,2
+"Carlos Austin Boozer  Jr.","United States",Basketball,2
 "Katrin Borchert",Australia,Canoeing,2
 "Erich Borchmeyer",Germany,Athletics,2
 "Iosif Boro",Romania,Handball,2
@@ -3929,7 +3929,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Robert Earl Johnson","United States",Athletics,2
 "Ernest Alfred Johnson","Great Britain",Cycling,2
 "Kathleen Ann "Kathy"" Johnson (-Clarke)"","United States",Gymnastics,2
-"Phyllis Wyatt Johnson (Squire-, -Waite)","Great Britain-1","Figure Skating",2
+"Phyllis Wyatt Johnson (Squire-  -Waite)","Great Britain-1","Figure Skating",2
 "Rafer Lewis Johnson","United States",Athletics,2
 "William Roy Johnson","United States",Swimming,2
 "Rebecca Ann Johnston",Canada,"Ice Hockey",2
@@ -4064,7 +4064,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Lenore M. Kight-Wingard","United States",Swimming,2
 "Pamela "Pam"" Kilborn-Ryan (-Nelson)"",Australia,Athletics,2
 "Lindsey Caroline Kildow-Vonn","United States","Alpine Skiing",2
-"Marika Kilius (-Zahn, -Schfer)",Germany-1,"Figure Skating",2
+"Marika Kilius (-Zahn  -Schfer)",Germany-1,"Figure Skating",2
 "Kim Cha-Yeon","South Korea",Handball,2
 "Kim Chun-Rye","South Korea",Handball,2
 "Kim Dong-Ju","South Korea",Baseball,2
@@ -4090,7 +4090,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Kenji Kimura",Japan,Volleyball,2
 "Mario Csar Kindeln Mesa",Cuba,Boxing,2
 "Conant Meigs "Con"" King"","United States",Athletics,2
-"Ellen Elizabeth King (-McPhearson, -Pearson)","Great Britain",Swimming,2
+"Ellen Elizabeth King (-McPhearson  -Pearson)","Great Britain",Swimming,2
 "Lilly King","United States",Swimming,2
 "Roger Nona Kingdom","United States",Athletics,2
 "Nienke Kingma",Netherlands,Rowing,2
@@ -4183,7 +4183,7 @@ Triyatno,Indonesia,Weightlifting,2
 "an Koir",Slovenia,Snowboarding,2
 "Lauri Koskela",Finland,Wrestling,2
 "Dennis Marwin Koslowski","United States",Wrestling,2
-"Stefka Georgieva Kostadinova (-Petrova, -Popovasileva)",Bulgaria,Athletics,2
+"Stefka Georgieva Kostadinova (-Petrova  -Popovasileva)",Bulgaria,Athletics,2
 "Guram Kostava","Soviet Union",Fencing,2
 "Mikako Kotani",Japan,"Synchronized Swimming",2
 "Sergey Vladimirovich Kotenko","Soviet Union","Water Polo",2
@@ -4222,7 +4222,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Vladimir Nikolayevich Kravtsov","Soviet Union",Handball,2
 "Galina Sergeyevna Kreft-Alekseyeva","Soviet Union",Canoeing,2
 "Kelly Kretschman","United States",Softball,2
-"Waltraud Kretzschmar (Hermann-, -Czelake)","East Germany",Handball,2
+"Waltraud Kretzschmar (Hermann-  -Czelake)","East Germany",Handball,2
 "Vitold Anatolyevich Kreyer","Soviet Union",Athletics,2
 "Milorad Krivokapi",Yugoslavia,"Water Polo",2
 "Denis Ivanovich Krivoshlykov",Russia,Handball,2
@@ -4240,16 +4240,16 @@ Triyatno,Indonesia,Weightlifting,2
 "Drago Vukovi",Croatia,Handball,2
 "Arkady Arkadyevich Vyachanin",Russia,Swimming,2
 "Konstantin Grigoryevich Vyrupayev","Soviet Union",Wrestling,2
-"Dwyane Tyrone Wade, Jr.","United States",Basketball,2
+"Dwyane Tyrone Wade  Jr.","United States",Basketball,2
 "Alyson Kay "Aly"" Wagner (-Eyre)"","United States",Football,2
 "Klaus Wagner",Germany,Equestrianism,2
 "Sandra Wagner-Sachse",Germany,Archery,2
-"Wolfram Waibel, Jr.",Austria,Shooting,2
+"Wolfram Waibel  Jr.",Austria,Shooting,2
 "Richard Donald "Rusty"" Wailes"","United States",Rowing,2
 "Erick Wainaina",Kenya,Athletics,2
 "Jadwiga Wajs-Marcinkiewicz (-Grtkiewicz)",Poland,Athletics,2
 "Tadeusz Walasek",Poland,Boxing,2
-"Stanisawa Walasiewicz (-Walsh, -Olson)",Poland,Athletics,2
+"Stanisawa Walasiewicz (-Walsh  -Olson)",Poland,Athletics,2
 "Keshorn Walcott","Trinidad and Tobago",Athletics,2
 "Jan-Ove Waldner",Sweden,"Table Tennis",2
 "Walewska Moreira de Oliveira",Brazil,Volleyball,2
@@ -4277,7 +4277,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Rebecca Claire "Becca"" Ward"","United States",Fencing,2
 "Catherine Ward",Canada,"Ice Hockey",2
 "Kenneth Christopher "Ken"" Wark"",Australia,Hockey,2
-"Heike Warnicke (Schalling-, -Sinaki)",Germany,"Speed Skating",2
+"Heike Warnicke (Schalling-  -Sinaki)",Germany,"Speed Skating",2
 "Philip Waruinge",Kenya,Boxing,2
 "Stephan Waser",Switzerland-1,Bobsleigh,2
 "Markus Wasmeier",Germany,"Alpine Skiing",2
@@ -4322,7 +4322,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Friedhelm Wentzke",Germany,Canoeing,2
 "Andreas "Andi"" Wenzel"",Liechtenstein,"Alpine Skiing",2
 "Lajos Werkner",Hungary,Fencing,2
-"Marianne Werner (Schulze-Entrup-, -Ader)",Germany,Athletics,2
+"Marianne Werner (Schulze-Entrup-  -Ader)",Germany,Athletics,2
 "Benjamin We",Germany,Hockey,2
 "Seth Benjamin Wescott","United States",Snowboarding,2
 "Christopher Wesley",Germany,Hockey,2
@@ -4331,7 +4331,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Hans Rolf Wetterstrm",Sweden,Canoeing,2
 "Jacob "Jake"" Wetzel"",Canada,Rowing,2
 "Lindsay Marie Whalen","United States",Basketball,2
-"Fatima N. (Fatma-) Whitbread (Vedad-, -Norman)","Great Britain",Athletics,2
+"Fatima N. (Fatma-) Whitbread (Vedad-  -Norman)","Great Britain",Athletics,2
 "Albert Cosad "Al"" White"","United States",Diving,2
 "Nicola White","Great Britain",Hockey,2
 "Rodney E. "Rod"" White"","United States",Archery,2
@@ -4366,12 +4366,12 @@ Triyatno,Indonesia,Weightlifting,2
 "Lauryn Chenet Williams","United States",Athletics,2
 "Percy Alfred Williams",Canada,Athletics,2
 "Randel Lavelle "Randy"" Williams"","United States",Athletics,2
-"Robert W. Williams, Jr.","United States",Archery,2
+"Robert W. Williams  Jr.","United States",Archery,2
 "Serena Jamika Williams","United States",Tennis,2
 "Stephen David "Steve"" Williams"","Great Britain",Rowing,2
 "Venus Ebony Starr Williams","United States",Tennis,2
 "Venus Ebony Starr Williams","United States-1",Tennis,2
-"Bernard Rollen Williams, III","United States",Athletics,2
+"Bernard Rollen Williams  III","United States",Athletics,2
 "Nicholas Ian "Nick"" Willis"","New Zealand",Athletics,2
 "Craig Martin Wilson","United States","Water Polo",2
 "David Dennis "Dave"" Wilson"","United States",Swimming,2
@@ -4538,7 +4538,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Roswietha Zobelt (Reichel-)","East Germany",Rowing,2
 "Hannelore Zober","East Germany",Handball,2
 "Urka olnir",Slovenia,Judo,2
-"dn Zombori (Zanich, Janicsek)",Hungary,Wrestling,2
+"dn Zombori (Zanich  Janicsek)",Hungary,Wrestling,2
 "Angelo Zorzi",Italy,Gymnastics,2
 "Viktor Alekseyevich Zubkov","Soviet Union",Basketball,2
 "Eurelijus ukauskas",Lithuania,Basketball,2
@@ -4612,7 +4612,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Kalevi Johannes Laitinen",Finland,Gymnastics,2
 "Mohinder Lal",India,Hockey,2
 "Raghbir Lal Sharma",India,Hockey,2
-"George Howard Lambert, Jr.","United States","Modern Pentathlon",2
+"George Howard Lambert  Jr.","United States","Modern Pentathlon",2
 "Georg Lammers",Germany,Athletics,2
 "Jocelyne Nicole Lamoureux","United States","Ice Hockey",2
 "Monique Edith Lamoureux (-Kolls)","United States","Ice Hockey",2
@@ -4710,7 +4710,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Erik Lesser",Germany,Biathlon,2
 "Joseph Louis "Joe"" Levis"","United States",Fencing,2
 "Detlef Lewe","West Germany",Canoeing,2
-"Barbara Lewe-Pohlmann-Schttpelz (-Norton, -Conrad)","West Germany",Canoeing,2
+"Barbara Lewe-Pohlmann-Schttpelz (-Norton  -Conrad)","West Germany",Canoeing,2
 "Carl Gustaf Moritz Thure Lewenhaupt",Sweden,Equestrianism,2
 "Denise Lewis","Great Britain",Athletics,2
 "Hayley Jane Lewis (-Taylor)",Australia,Swimming,2
@@ -4747,7 +4747,7 @@ Triyatno,Indonesia,Weightlifting,2
 "August Ludvig Lindgren",Denmark,Football,2
 "Eric Bryan Lindros",Canada,"Ice Hockey",2
 "Jeremy Porter Linn","United States",Swimming,2
-"Liselott Linsenhoff (Schindling-, -Rheinberger)",Germany,Equestrianism,2
+"Liselott Linsenhoff (Schindling-  -Rheinberger)",Germany,Equestrianism,2
 "Kazimierz Lipie",Poland,Wrestling,2
 "Donald Fithian Lippincott","United States",Athletics,2
 "Jaak Lipso","Soviet Union",Basketball,2
@@ -4780,7 +4780,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Trofim Fyodorovich Lomakin","Soviet Union",Weightlifting,2
 "Abraham Robertus "Bram"" Lomans"",Netherlands,Hockey,2
 "John Edward "Jack"" London"","Great Britain",Athletics,2
-"Dallas Crutcher Long, III","United States",Athletics,2
+"Dallas Crutcher Long  III","United States",Athletics,2
 "Long Qingquan",China,Weightlifting,2
 "Paavo Olavi Lonkila (Lng-)",Finland,"Cross Country Skiing",2
 "Shelley Looney","United States","Ice Hockey",2
@@ -4888,7 +4888,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Raimondas arnas Mariulionis",Lithuania,Basketball,2
 "Anne R. Marden (-Grainger)","United States",Rowing,2
 "Yekaterina Aleksandrovna Marennikova",Russia,Handball,2
-"Elena Mrgrit-Niculecu (-Dobrovolschi, -Fodor)",Romania,Gymnastics,2
+"Elena Mrgrit-Niculecu (-Dobrovolschi  -Fodor)",Romania,Gymnastics,2
 "Corneliu "Cornel"" Marin"",Romania,Fencing,2
 "Fiorenzo Marini",Italy,Fencing,2
 "Martin Georgiev Marinov",Bulgaria,Canoeing,2
@@ -4970,7 +4970,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Kelly Anne McCormick","United States",Diving,2
 "Francena Lynette McCorory","United States",Athletics,2
 "Angel Lajuane McCoughtry","United States",Basketball,2
-"Josiah Calvin McCracken, Jr.","United States",Athletics,2
+"Josiah Calvin McCracken  Jr.","United States",Athletics,2
 "Nikki Kensengane McCray","United States",Basketball,2
 "Heather Jane McDermid",Canada,Rowing,2
 "Sally Jane McDermid-McCreedy",Australia,Softball,2
@@ -4984,7 +4984,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Scott Anthony McGrory",Australia,Cycling,2
 "Charles "Charlie"" McKee"","United States",Sailing,2
 "Jonathan Dunn McKee","United States",Sailing,2
-"Grace McKenzie (-Nelson, -Morgan)","Great Britain",Swimming,2
+"Grace McKenzie (-Nelson  -Morgan)","Great Britain",Swimming,2
 "William Alister M. "Bill"" McKerlich"",Canada,Rowing,2
 "Richard Lee "Rick"" McKinney"","United States",Archery,2
 "Jeffrey Dean "Jeff"" McLaughlin"","United States",Rowing,2
@@ -5169,7 +5169,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Ryan Andrew Cochrane",Canada,Swimming,2
 "Edmund Sloane "Tad"" Coffin"","United States",Equestrianism,2
 "Corey Cogdell-Unrein","United States",Shooting,2
-"Tiffany Lisa Cohen (-Adams, -Lalonde)","United States",Swimming,2
+"Tiffany Lisa Cohen (-Adams  -Lalonde)","United States",Swimming,2
 "Trevor Ivan Coker","New Zealand",Rowing,2
 "Ross Hounsell Collinge","New Zealand",Rowing,2
 "Daniel James "Danny"" Collins"",Australia,Canoeing,2
@@ -5261,7 +5261,7 @@ Triyatno,Indonesia,Weightlifting,2
 "David "Dave"" Davies"","Great Britain",Swimming,2
 "Elizabeth Valerie Davies (-Latham)","Great Britain",Swimming,2
 "Jack Wells Davis","United States",Athletics,2
-"John Henry Davis, Jr.","United States",Weightlifting,2
+"John Henry Davis  Jr.","United States",Weightlifting,2
 "Meryl Elizabeth Davis","United States-1","Figure Skating",2
 "Nicole Marie Davis","United States",Volleyball,2
 "Otis Crandall Davis","United States",Athletics,2
@@ -5406,7 +5406,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Jacques Dupont",France,Cycling,2
 "Lori Dupuis",Canada,"Ice Hockey",2
 "Osman Duraliev",Bulgaria,Wrestling,2
-"Pierre Durand, Jr.",France,Equestrianism,2
+"Pierre Durand  Jr.",France,Equestrianism,2
 "Hugh Durant","Great Britain",Shooting,2
 "Kevin Wayne Durant","United States",Basketball,2
 "Cornel Duru",Romania,Handball,2
@@ -5440,7 +5440,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Marten Eikelboom",Netherlands,Hockey,2
 "John Lincoln Eisele","United States",Athletics,2
 "Julius Eisenecker",Germany,Fencing,2
-"Lloyd Edgar Eisler, Jr.",Canada-1,"Figure Skating",2
+"Lloyd Edgar Eisler  Jr.",Canada-1,"Figure Skating",2
 "John Wicktor Eke (Jonsson-)",Sweden,Athletics,2
 "Thom Lennart Eklund",Sweden,"Ice Hockey",2
 "James Robert "Jim"" Elder"",Canada,Equestrianism,2
@@ -5488,7 +5488,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Georgina Emma Buchanan Evers-Swindell (-Earl)","New Zealand",Rowing,2
 "Patrick Aloysius Ewing","United States",Basketball,2
 "Walter Hamilton Ewing",Canada,Shooting,2
-"John Onins Exley, Jr.","Vesper Boat Club",Rowing,2
+"John Onins Exley  Jr.","Vesper Boat Club",Rowing,2
 "Fabiana "Fabi"" Alvim de Oliveira"",Brazil,Volleyball,2
 "Dezs Fbin",Hungary,"Water Polo",2
 "Fabiana Marcelino Claudino",Brazil,Volleyball,2
@@ -5511,7 +5511,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Boris Olegovich Mironov",Russia,"Ice Hockey",2
 "Yevgeny Dmitriyevich Mishakov","Soviet Union","Ice Hockey",2
 "Masumi Mishina",Japan,Softball,2
-"Henry Kent Mitchell, II","United States",Rowing,2
+"Henry Kent Mitchell  II","United States",Rowing,2
 "Michele Anne Mitchell","United States",Diving,2
 "Rajko Miti",Yugoslavia,Football,2
 "Gyrgy Mitr",Hungary,Swimming,2
@@ -5807,7 +5807,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Charles Bnoni Louis Pacme",France,Wrestling,2
 "Ildik Pdr",Hungary,Handball,2
 "Juan Padilla Alfonso",Cuba,Baseball,2
-"Henri Antoine Padou, Sr.",France,"Water Polo",2
+"Henri Antoine Padou  Sr.",France,"Water Polo",2
 "Malcolm George Page",Australia,Sailing,2
 "Sumner Paine","United States",Shooting,2
 "Mariana Pajn Londoo",Colombia,Cycling,2
@@ -5993,7 +5993,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Leandro Faggin",Italy,Cycling,2
 "Aeriwentha Mae Faggs (-Starr)","United States",Athletics,2
 "David William Fairbank","United States",Swimming,2
-"Hildegard Falck (Janze-, -Kimmich)","West Germany",Athletics,2
+"Hildegard Falck (Janze-  -Kimmich)","West Germany",Athletics,2
 "Anne-Marie "Annie"" Famose (-Bremont)"",France,"Alpine Skiing",2
 "Fan Bin",China,Gymnastics,2
 "Hans-Johann Frber","West Germany",Rowing,2
@@ -6072,7 +6072,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Timothy James Carrington "Tim"" Foster"","Great Britain",Rowing,2
 "William "Willie"" Foster"","Great Britain",Swimming,2
 "Ladislav Fouek",Czechoslovakia,Cycling,2
-"June Florence Foulds-Paul (-Carroll, -Reynolds)","Great Britain",Athletics,2
+"June Florence Foulds-Paul (-Carroll  -Reynolds)","Great Britain",Athletics,2
 "Catherine Mai-Lan Fox","United States",Swimming,2
 "Jessica Esther "Jess"" Fox"",Australia,Canoeing,2
 "Zsuzsanna "Susan"" Francia"","United States",Rowing,2
@@ -6100,7 +6100,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Katrine Fruelund",Denmark,Handball,2
 "Florian Fuchs",Germany,Hockey,2
 "James Emanuel "Jim"" Fuchs"","United States",Athletics,2
-"Ruth Fuchs (Gamm-, -Hellmann)","East Germany",Athletics,2
+"Ruth Fuchs (Gamm-  -Hellmann)","East Germany",Athletics,2
 "Raika Fujii",Japan,"Synchronized Swimming",2
 "Takuro Fujii",Japan,Swimming,2
 "Kosuke Fukudome",Japan,Baseball,2
@@ -6244,7 +6244,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Duncan Alexander Goodhew","Great Britain",Swimming,2
 "Leo Joseph "Budd"" Goodwin"","United States",Swimming,2
 "Nina Yuryevna Gopova-Trofimova","Soviet Union",Canoeing,2
-"Vilm Ladislav Jan Goppold z Lobsdorfu, Sr.",Bohemia,Fencing,2
+"Vilm Ladislav Jan Goppold z Lobsdorfu  Sr.",Bohemia,Fencing,2
 "Yelena Yegorovna Gorchakova","Soviet Union",Athletics,2
 "Fortune Everett Gordien","United States",Athletics,2
 "Lalonde Keida Gordon","Trinidad and Tobago",Athletics,2
@@ -6291,10 +6291,10 @@ Triyatno,Indonesia,Weightlifting,2
 "Charles Edward "Charlie"" Greene"","United States",Athletics,2
 "Joseph Tilford Lee "Joe"" Greene"","United States",Athletics,2
 "Nancy Catherine Greene (-Raine)",Canada,"Alpine Skiing",2
-"Oscar Grgoire, Jr.",Belgium,"Water Polo",2
+"Oscar Grgoire  Jr.",Belgium,"Water Polo",2
 "Horst-Gnter Gregor",Germany,Swimming,2
 "Alexander John "Alex"" Gregory"","Great Britain",Rowing,2
-"John Gretton, Jr.",Scotia,Sailing,2
+"John Gretton  Jr.",Scotia,Sailing,2
 "Hans Grieder",Switzerland,Gymnastics,2
 "Yolanda Yvette Griffith","United States",Basketball,2
 "Cristina Elena Grigora",Romania,Gymnastics,2
@@ -6396,7 +6396,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Robert Rodney "Rob"" Hammond"",Australia,Hockey,2
 "Olaf Hampel",Germany-2,Bobsleigh,2
 "Thomas "Tommy"" Hampson"","Great Britain",Athletics,2
-"Millard Frank Hampton, Jr.","United States",Athletics,2
+"Millard Frank Hampton  Jr.","United States",Athletics,2
 "Han Tianyu",China,"Short Track Speed Skating",2
 "Vincent Hancock","United States",Shooting,2
 "Tayyiba Mumtaz Haneef-Park","United States",Volleyball,2
@@ -6419,8 +6419,8 @@ Triyatno,Indonesia,Weightlifting,2
 "Thomas Truxtun Hare","United States",Athletics,2
 "Bruce Ira Harlan","United States",Diving,2
 "Christa Deanne Harmotto-Dietzen","United States",Volleyball,2
-"Dawn Harper (-Everhart, -Nelson)","United States",Athletics,2
-"Otis Harris, Jr.","United States",Athletics,2
+"Dawn Harper (-Everhart  -Nelson)","United States",Athletics,2
+"Otis Harris  Jr.","United States",Athletics,2
 "Reginald Hargreaves "Reg"" Harris"","Great Britain",Cycling,2
 "Alvin Leonardo Harrison","United States",Athletics,2
 "Kayla Harrison","United States",Judo,2
@@ -6493,7 +6493,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Israel Hernndez Planas",Cuba,Judo,2
 "Lauren Zoe "Laurie"" Hernandez"","United States",Gymnastics,2
 "Juan Hernndez Sierra",Cuba,Boxing,2
-"Henri Louis Hrouin, Sr.",France,Archery,2
+"Henri Louis Hrouin  Sr.",France,Archery,2
 "Camilla Herrem",Norway,Handball,2
 "Angel Herrera Vera",Cuba,Boxing,2
 "Lutz Helich","East Germany",Cycling,2
@@ -6621,7 +6621,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Lszl Fazekas",Hungary,Football,1
 "Federico Julin Fazio",Argentina,Football,1
 "Joseph Ray "Joe"" Fazio"",Australia,Rowing,1
-"Jasna Fazli-Reed (-Lupulesku-, -Rather)",Yugoslavia,"Table Tennis",1
+"Jasna Fazli-Reed (-Lupulesku-  -Rather)",Yugoslavia,"Table Tennis",1
 "Harald Oliver Nikolai Frstad",Norway,Gymnastics,1
 "Fred Frank Feary","United States",Boxing,1
 "Andriy Vasylovych Fedchuk",Ukraine,Boxing,1
@@ -6936,7 +6936,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Frank Kent Foss","United States",Athletics,1
 "Brendan Foster","Great Britain",Athletics,1
 "Patricia Diane Foster",Canada,Athletics,1
-"Glen Seward Foster, II","United States",Sailing,1
+"Glen Seward Foster  II","United States",Sailing,1
 "Gregory "Greg"" Foster"","United States",Athletics,1
 "James "Jimmy"" Foster"","Great Britain","Ice Hockey",1
 "Margot Elizabeth Foster",Australia,Rowing,1
@@ -7137,7 +7137,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Jorge Francisco Fumero Fernndez",Cuba,Baseball,1
 "Ivn Fundora Zaldivar",Cuba,Wrestling,1
 "Lori Fung (-Methorst)",Canada,"Rhythmic Gymnastics",1
-"Lorenz Funk, Sr.","West Germany","Ice Hockey",1
+"Lorenz Funk  Sr.","West Germany","Ice Hockey",1
 "Wolfgang Funkel","West Germany",Football,1
 "Zita-Eva Funkenhauser",Germany,Fencing,1
 "Peter Funnektter","West Germany",Rowing,1
@@ -7529,7 +7529,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Merritt Hayward Giffin","United States",Athletics,1
 "Albert Giger",Switzerland,"Cross Country Skiing",1
 "Elena Gigli",Italy,"Water Polo",1
-"Juan Jorge Giha Yarur, Jr.",Peru,Shooting,1
+"Juan Jorge Giha Yarur  Jr.",Peru,Shooting,1
 "Laura Gil Collado",Spain,Basketball,1
 "Ramn "Moncho"" Gil Sequeiros"",Spain,Football,1
 "Enrico Gilardi",Italy,Basketball,1
@@ -7619,7 +7619,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Jay Glaser","United States",Sailing,1
 "Sarah "Pease"" Glaser (Herndon-)"","United States",Sailing,1
 "Victor Wayne Glasgow","United States",Basketball,1
-"Walter Merrill Glasgow, Jr.","United States",Sailing,1
+"Walter Merrill Glasgow  Jr.","United States",Sailing,1
 "Josip Glasnovi",Croatia,Shooting,1
 "Alisha Rebecca Glass","United States",Volleyball,1
 "Bernhard Glass","East Germany",Luge,1
@@ -7682,7 +7682,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Adolphe Joseph Henri Goemaere",Belgium,Hockey,1
 "Daniel Goens",Belgium,Cycling,1
 "Nicholas "Nick"" Goepper"","United States","Freestyle Skiing",1
-"Oscar A. Goerke, Jr.","United States",Cycling,1
+"Oscar A. Goerke  Jr.","United States",Cycling,1
 "Lena Goeling",Germany,Football,1
 "Augustus Michael Gus Goessling","Missouri Athletic Club-3","Water Polo",1
 "Hugo Louis Goetz","Chicago Athletic Association-2",Swimming,1
@@ -7747,7 +7747,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Tatyana Pavlovna Gonobobleva (Semyonova-)","Soviet Union",Volleyball,1
 "Bogdan Kazimierz Gonsior",Poland,Fencing,1
 "Joseph Franois Gonzales",France,Boxing,1
-"Paul Garza Gonzales, Jr.","United States",Boxing,1
+"Paul Garza Gonzales  Jr.","United States",Boxing,1
 "Antonio Gonzlez Izquierdo",Spain,Hockey,1
 "Arstides Gonzlez Ortiz","Puerto Rico",Boxing,1
 "Asley Gonzlez Montero",Cuba,Judo,1
@@ -7820,7 +7820,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Valery Leonidovich Goryushev",Russia,Volleyball,1
 "Carl Heinrich Goler","Germania Ruder Club, Hamburg-2",Rowing,1
 "Gustav Ludwig Goler","Germania Ruder Club, Hamburg-2",Rowing,1
-"Carl Oscar Goler, II","Germania Ruder Club, Hamburg-2",Rowing,1
+"Carl Oscar Goler  II","Germania Ruder Club, Hamburg-2",Rowing,1
 "William Sullivan Gosling","Upton Park FC",Football,1
 "Richard Kevan Gosper",Australia,Athletics,1
 "Kennedy Goss",Canada,Swimming,1
@@ -7840,7 +7840,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Sadegh Goudarzi",Iran,Wrestling,1
 "Simon Gougnard",Belgium,Hockey,1
 "Georgia Gould","United States",Cycling,1
-"Jay Gould, II","United States","Jeu De Paume",1
+"Jay Gould  II","United States","Jeu De Paume",1
 "Kenneth "Kenny"" Gould"","United States",Boxing,1
 "George Henry Goulding",Canada,Athletics,1
 "Grantley Thomas Smart Goulding","Great Britain",Athletics,1
@@ -7947,7 +7947,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Steven Garrett "Steve"" Gregg"","United States",Swimming,1
 "William Greggan","Liverpool Police Team-2",Tug-Of-War,1
 "Melania Grego",Italy,"Water Polo",1
-"Oscar Grgoire, Jr.","Brussels Swimming and Water Polo Club","Water Polo",1
+"Oscar Grgoire  Jr.","Brussels Swimming and Water Polo Club","Water Polo",1
 "Andreas Gregor","East Germany",Rowing,1
 "Frantiek Gregor",Czechoslovakia,"Ice Hockey",1
 "Horst-Gnter Gregor","East Germany",Swimming,1
@@ -8000,7 +8000,7 @@ Triyatno,Indonesia,Weightlifting,2
 "David Allan Grindley","Great Britain",Athletics,1
 "Brittney Yevette Griner","United States",Basketball,1
 "Inka Grings",Germany,Football,1
-"Judith Brenda Grinham (-Rowley, -Roe)","Great Britain",Swimming,1
+"Judith Brenda Grinham (-Rowley  -Roe)","Great Britain",Swimming,1
 "Kjersti Elizabeth Grini",Norway,Handball,1
 "Lars Grini",Norway,"Ski Jumping",1
 "Sergey Mikhaylovich Grinkov","Soviet Union-1","Figure Skating",1
@@ -8057,7 +8057,7 @@ Triyatno,Indonesia,Weightlifting,2
 "mile Grumiaux",France,Archery,1
 "Andreas "Andi"" Grnenfelder"",Switzerland,"Cross Country Skiing",1
 "Klaus Gruner","East Germany",Handball,1
-"Martina Grunert (-Koch, -Abresch)","East Germany",Swimming,1
+"Martina Grunert (-Koch  -Abresch)","East Germany",Swimming,1
 "Ernest "Ernie"" Grunfeld"","United States",Basketball,1
 "Emil Grnig",Switzerland,Shooting,1
 "Klaus-Jrgen Grnke","East Germany",Cycling,1
@@ -8217,7 +8217,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Gwon Hyeok","South Korea",Baseball,1
 "Gwon Su-Hyeon","South Korea",Hockey,1
 "Horace "Lefty"" Gwynne"",Canada,Boxing,1
-"Olga Gyarmati (-Vrkonyi, -Aczl)",Hungary,Athletics,1
+"Olga Gyarmati (-Vrkonyi  -Aczl)",Hungary,Athletics,1
 "Valria Gyenge (-Garai)",Hungary,Swimming,1
 "George Frederick Gyles","Santa Maria",Sailing,1
 "Jane Hilda Charlotta Gylling (-Palm)",Sweden,Swimming,1
@@ -8261,7 +8261,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Gustaf Wilhelm Hagelin",Sweden,Equestrianism,1
 "Andreas Hagelund (Olsen-)",Norway,Gymnastics,1
 "Birgit Hagen (-Blasberg)","West Germany",Hockey,1
-"Harald Wilhelm Karl Hagen, Jr.",Bera,Sailing,1
+"Harald Wilhelm Karl Hagen  Jr.",Bera,Sailing,1
 "Horst Hagen","East Germany",Volleyball,1
 "Oddbjrn Hagen",Norway,"Nordic Combined",1
 "Olav Ingvaldsen Hagen",Norway,"Cross Country Skiing",1
@@ -8308,7 +8308,7 @@ Triyatno,Indonesia,Weightlifting,2
 "David Connolly "Dave"" Hall"","United States",Athletics,1
 "Dennis William Hall","United States",Wrestling,1
 "Ervin Henry "Erv"" Hall"","United States",Athletics,1
-"Evelyne Ruth Hall (Davidson-, -Adams, -Butler)","United States",Athletics,1
+"Evelyne Ruth Hall (Davidson-  -Adams  -Butler)","United States",Athletics,1
 "Frank Hall","United States",Shooting,1
 "Samuel Wesley "Sam"" Hall"","United States",Diving,1
 "Alexander Noble "Sandy"" Hall"","Galt Football Club",Football,1
@@ -8319,7 +8319,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Frank Bee Haller","United States",Boxing,1
 "sgeir rn Hallgrmsson",Iceland,Handball,1
 "James "Jim"" Halliday"","Great Britain",Weightlifting,1
-"Gerard Hallock, III","United States","Ice Hockey",1
+"Gerard Hallock  III","United States","Ice Hockey",1
 "Jeanne Courtney Hallock (-Craig)","United States",Swimming,1
 "Gyz Halmos (Hberfeld-)",Hungary,Gymnastics,1
 "Kalle Niilo Ponteva Halonen",Finland,"Ski Jumping",1
@@ -8340,7 +8340,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Franois Hamelin",Canada,"Short Track Speed Skating",1
 "Daniel "Dan"" Hamhuis"",Canada,"Ice Hockey",1
 "Khalid Hamid",Pakistan,Hockey,1
-"Dorothy Stuart Hamill (-Martin, -Forsythe)","United States","Figure Skating",1
+"Dorothy Stuart Hamill (-Martin  -Forsythe)","United States","Figure Skating",1
 "Brutus Kerr Hamilton","United States",Athletics,1
 "Claire Hamilton","Great Britain",Curling,1
 "Douglas "Doug"" Hamilton"",Canada,Rowing,1
@@ -8482,7 +8482,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Rudolf Waldemar "Rudi"" Harbig"",Germany,Athletics,1
 "Anfernee Deon "Penny"" Hardaway"","United States",Basketball,1
 "Timothy Duane "Tim"" Hardaway"","United States",Basketball,1
-"James Edward Harden, Jr.","United States",Basketball,1
+"James Edward Harden  Jr.","United States",Basketball,1
 "Timothy M. "Tim"" Harden"","United States",Athletics,1
 "Phyllis May Harding (-Turner)","Great Britain",Swimming,1
 "Harold Payne Hardman","Great Britain",Football,1
@@ -8600,7 +8600,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Donald Trevor "Don"" Hawgood"",Canada,Canoeing,1
 "Robert Murray Hawkes","Great Britain",Football,1
 "Harold Ingleby Hawkins","Great Britain",Shooting,1
-"Hersey R. Hawkins, Jr.","United States",Basketball,1
+"Hersey R. Hawkins  Jr.","United States",Basketball,1
 "Martin William Hawkins (Hakansson-)","United States",Athletics,1
 "Stephen Mark "Steve"" Hawkins"",Australia,Rowing,1
 "Cheryl Ann Haworth","United States",Weightlifting,1
@@ -8724,7 +8724,7 @@ Triyatno,Indonesia,Weightlifting,2
 "Henri Hyacinthe Helle",France,Archery,1
 "Tia Hellebaut (Van Haver-)",Belgium,Athletics,1
 "Jaroslav Hellebrand",Czechoslovakia,Rowing,1
-"Georges Auguste Hellebuyck, Sr.","Antwerpia V",Sailing,1
+"Georges Auguste Hellebuyck  Sr.","Antwerpia V",Sailing,1
 "Edvin Erik Hellgren",Sweden,Athletics,1
 "Russell Owen "Russ"" Hellickson"","United States",Wrestling,1
 "David Leedom Helliwell",Canada,Rowing,1
@@ -8788,7 +8788,7 @@ Hendrawan,Indonesia,Badminton,1
 "Francis Henriquez de Zubira","Racing Club de France",Tug-Of-War,1
 "Desiree Latifah N. Henry","Great Britain",Athletics,1
 "George Ernest Morrison Henry",Australia,Swimming,1
-"Guy Vernor Henry, Jr.","United States",Equestrianism,1
+"Guy Vernor Henry  Jr.","United States",Equestrianism,1
 "James Edward "Jim"" Henry"","United States",Diving,1
 "Kenneth Charles "Ken"" Henry"","United States","Speed Skating",1
 "Ludi "Lea"" Henry (-Manning)"","United States",Basketball,1
@@ -8925,7 +8925,7 @@ Hendrawan,Indonesia,Badminton,1
 "Samantha "Sami"" Hill"","United States","Water Polo",1
 "Thomas Lionel "Tom"" Hill"","United States",Athletics,1
 "Virgil Eugene Hill","United States",Boxing,1
-"Beatrice Geraldine Hill-Lowe (Ruxton-, -Thompson)","Great Britain",Archery,1
+"Beatrice Geraldine Hill-Lowe (Ruxton-  -Thompson)","Great Britain",Archery,1
 "Lorraine Mary Hillas (Wharton-)",Australia,Hockey,1
 "Francisca Elisabeth Maria "Elsemieke"" Hillen (-Havenga)"",Netherlands,Hockey,1
 "Elof Fritjof Valentin "Fritte"" Hilln"",Sweden,Football,1
@@ -8953,7 +8953,7 @@ Hendrawan,Indonesia,Badminton,1
 "Garrett Hines","United States-1",Bobsleigh,1
 "Martina Hingis (-Hutin)",Switzerland,Tennis,1
 "Jrgen Hingsen","West Germany",Athletics,1
-"Martin Hinterstocker, Sr.","West Germany","Ice Hockey",1
+"Martin Hinterstocker  Sr.","West Germany","Ice Hockey",1
 "Gabriele Hinzmann (Trepscheck-)","East Germany",Athletics,1
 "Karl Hipfinger",Austria,Weightlifting,1
 "Jaime Elizabeth Hipp (-Komer)","United States","Water Polo",1
@@ -8993,7 +8993,7 @@ Hendrawan,Indonesia,Badminton,1
 "Hong Anh Tun",Vietnam,Weightlifting,1
 "Gordon Rahere Hoare","Great Britain",Football,1
 "William Barton Roger "Bill"" Hobbs"","United States",Rowing,1
-"Franklin Warren Hobbs, IV","United States",Rowing,1
+"Franklin Warren Hobbs  IV","United States",Rowing,1
 "Herbert Hobein",Germany,Hockey,1
 "Valeriy Hryhorovych Hoborov","Soviet Union",Basketball,1
 "Yves Hocd",France,Rowing,1
@@ -9117,7 +9117,7 @@ Hendrawan,Indonesia,Badminton,1
 "Viktor Romanovich Pryazhnikov","Soviet Union","Ice Hockey",1
 "Oleksiy Viktorovych Pryhorov",Ukraine,Diving,1
 "Stanislav Prl",Czechoslovakia,"Ice Hockey",1
-"Nadiya Ivanivna Pryshchepa (Derhachenko-, -Bezpalova)","Soviet Union",Rowing,1
+"Nadiya Ivanivna Pryshchepa (Derhachenko-  -Bezpalova)","Soviet Union",Rowing,1
 "Anna Maria Prytz",Sweden,Curling,1
 "Ryszard Stanisaw Przybysz",Poland,Handball,1
 "Carl Aage Andersen Prst",Denmark,Football,1
@@ -9219,7 +9219,7 @@ Hendrawan,Indonesia,Badminton,1
 "Ioamnet Quintero lvarez",Cuba,Athletics,1
 "Alfredo Paolo Quinteros",Argentina,Basketball,1
 "ric Quintin",France,Handball,1
-"Carole Louise Quinton (-Barr, -Kibble-White)","Great Britain",Athletics,1
+"Carole Louise Quinton (-Barr  -Kibble-White)","Great Britain",Athletics,1
 "Jean Quiquampoix",France,Shooting,1
 "Alicia Quirk",Australia,"Rugby Sevens",1
 "Ral Nicols Quiroga",Argentina,Volleyball,1
@@ -9403,7 +9403,7 @@ Hendrawan,Indonesia,Badminton,1
 "Vatemo Ravouvou",Fiji,"Rugby Sevens",1
 "Savenaca Rawaca",Fiji,"Rugby Sevens",1
 "Alfred "Toby"" Rawlinson"","Foxhunters Hurlingham",Polo,1
-"Katherine Louise Rawls (-Thompson, -Green)","United States",Swimming,1
+"Katherine Louise Rawls (-Thompson  -Green)","United States",Swimming,1
 "Ronald Rawson "Ron"" Rawson"","Great Britain",Boxing,1
 "Mary Elise Ray","United States",Gymnastics,1
 "Joie William Ray","United States",Athletics,1
@@ -9555,8 +9555,8 @@ Hendrawan,Indonesia,Badminton,1
 "Lucas Martn Rey",Argentina,Hockey,1
 "Matas Rey",Argentina,Hockey,1
 "Thierry Rey",France,Judo,1
-"Amedee Valle Reyburn, Jr.","Missouri Athletic Club-3","Water Polo",1
-"Amedee Valle Reyburn, Jr.","Missouri Athletic Club-3",Swimming,1
+"Amedee Valle Reyburn  Jr.","Missouri Athletic Club-3","Water Polo",1
+"Amedee Valle Reyburn  Jr.","Missouri Athletic Club-3",Swimming,1
 "Diego Antonio Reyes Rosales",Mexico,Football,1
 "Faustino Reyes Lpez",Spain,Boxing,1
 "Pedro Antonio Reyes Gonzlez",Chile,Football,1
@@ -9678,9 +9678,9 @@ Hendrawan,Indonesia,Badminton,1
 "Jorgelina Rimoldi Puig",Argentina,Hockey,1
 "Anne-Marie Rindom",Denmark,Sailing,1
 "Alfred L. Rinesch",Austria,"Art Competitions",1
-"Carl August Ringvold, Jr.",Bera,Sailing,1
-"Carl August Ringvold, Sr.",Irene,Sailing,1
-"Carl August Ringvold, Sr.",Bera,Sailing,1
+"Carl August Ringvold  Jr.",Bera,Sailing,1
+"Carl August Ringvold  Sr.",Irene,Sailing,1
+"Carl August Ringvold  Sr.",Bera,Sailing,1
 "Christopher "Chris"" Rinke"",Canada,Wrestling,1
 "Hans Rinn","East Germany",Luge,1
 "Fanny Rinne",Germany,Hockey,1
@@ -9813,10 +9813,10 @@ Hendrawan,Indonesia,Badminton,1
 "Misael Uziel Rodrguez Olivas",Mexico,Boxing,1
 "Washington Rodrguez Medina",Uruguay,Boxing,1
 "Rufino Rodrguez de la Torre Newton",Djinn,Sailing,1
-"Raoul Pablo Rodriguez, Jr.","United States",Rowing,1
+"Raoul Pablo Rodriguez  Jr.","United States",Rowing,1
 "James Rodwell","Great Britain","Rugby Sevens",1
 "Jarosaw Andrzej Rodzewicz",Poland,Fencing,1
-"Fred Roe, Sr.","United States",Polo,1
+"Fred Roe  Sr.","United States",Polo,1
 "Otto Frederick Roehm","United States",Wrestling,1
 "Gaston Roelants",Belgium,Athletics,1
 "Boudewijn Rell",Netherlands,Rowing,1
@@ -9866,7 +9866,7 @@ Hendrawan,Indonesia,Badminton,1
 "Marianne Rokne",Norway,Handball,1
 "Antonio Roldn Reyna",Mexico,Boxing,1
 "Mara del Pilar Roldn Tapia (-de Gifennig)",Mexico,Fencing,1
-"Barbara Ann Roles (-Pursley, -Williams)","United States","Figure Skating",1
+"Barbara Ann Roles (-Pursley  -Williams)","United States","Figure Skating",1
 "Fridolina Rolf",Sweden,Football,1
 "Kevin Rolland",France,"Freestyle Skiing",1
 "Brianna Rollins","United States",Athletics,1
@@ -9949,8 +9949,8 @@ Hendrawan,Indonesia,Badminton,1
 "Kjell Bertil Gunnar Rosn",Sweden,Football,1
 "Stefan Rosenbauer",Germany,Fencing,1
 "Werner Rosenbaum",Germany,Hockey,1
-"Hedwiga Rosenbaumov (Austerlitz-, -Raabe)",Bohemia,Tennis,1
-"Hedwiga Rosenbaumov (Austerlitz-, -Raabe)","Bohemia/Great Britain",Tennis,1
+"Hedwiga Rosenbaumov (Austerlitz-  -Raabe)",Bohemia,Tennis,1
+"Hedwiga Rosenbaumov (Austerlitz-  -Raabe)","Bohemia/Great Britain",Tennis,1
 "Margarete "Grete"" Rosenberg (-Wildhagen)"",Germany,Swimming,1
 "Fredrik Jakob Tage Ulfstand Rosencrantz",Sweden,Equestrianism,1
 "Birger Eugen Rosengren",Sweden,Football,1
@@ -9964,14 +9964,14 @@ Hendrawan,Indonesia,Badminton,1
 "Vinko Rosi",Yugoslavia,"Water Polo",1
 "Wilhelm Herman Conrad Enno "Willy"" Rsingh"",Netherlands,Rowing,1
 "Lennart Brje Roslund",Sweden,Sailing,1
-"Christina Roslyng (-Christiansen, -Kirke)",Denmark,Handball,1
+"Christina Roslyng (-Christiansen  -Kirke)",Denmark,Handball,1
 "Petr Rosol",Czechoslovakia,"Ice Hockey",1
 "April Elizabeth Ross","United States-2","Beach Volleyball",1
 "April Elizabeth Ross","United States-1","Beach Volleyball",1
 "William MacPherson "Bill"" Ross"",Canada,Rowing,1
 "George James Ross","Great Britain",Gymnastics,1
 "Kyla Briana Ross","United States",Gymnastics,1
-"Elbridge Baker Ross, Jr.","United States","Ice Hockey",1
+"Elbridge Baker Ross  Jr.","United States","Ice Hockey",1
 "Marc Rosset",Switzerland,Tennis,1
 "Bruno Mario Rossetti",Italy,Shooting,1
 "Gabriele Rossetti",Italy,Shooting,1
@@ -9987,7 +9987,7 @@ Hendrawan,Indonesia,Badminton,1
 "Petra Rossner",Germany,Cycling,1
 "Klaus-Jrgen Rost",Germany,Wrestling,1
 "Peter Rost","East Germany",Handball,1
-"Marlies Rostock (-Dotzauer, -Fraas)","East Germany","Cross Country Skiing",1
+"Marlies Rostock (-Dotzauer  -Fraas)","East Germany","Cross Country Skiing",1
 "Hanna Mykolavna Rostova (-Mazur)","Soviet Union",Volleyball,1
 "Pavel Aleksandrovich Rostovtsev",Russia,Biathlon,1
 "Ture Albin Rosvall","Roddklubben af 1912-1",Rowing,1

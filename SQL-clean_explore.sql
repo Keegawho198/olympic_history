@@ -35,9 +35,19 @@ FROM athlete_events
 GROUP BY ID, Name, Sex, Age, Height, Weight, Team, NOC, Games, Year, Season, City, Sport, Event, Medal
 HAVING COUNT(*) > 1;
 
+-- remove comma as it moves coloumns to next coloumn in tableau
+UPDATE athlete_events
+SET Name = REPLACE(Name, ',', ' ');
+
 
 SELECT *
 FROM athlete_events;
+
+-- test
+SELECT sex,AVG(age)
+FROM athlete_events
+WHERE year = 1956
+GROUP BY sex;
 
 
 -- remove duplicates
@@ -73,7 +83,7 @@ GROUP BY team;
 
 -- use pivot to show medal distribution
 -- using NOC table 
-SELECT n.region, 
+SELECT ROUND(AVG(age)) AS average_age, n.region, 
 		SUM(CASE WHEN medal = 'Gold' THEN 1 ELSE 0 END) AS Gold,
         SUM(CASE WHEN medal = 'Silver' THEN 1 ELSE 0 END) AS Silver,
         SUM(CASE WHEN medal = 'Bronze' THEN 1 ELSE 0 END) AS Bronze,
@@ -128,6 +138,17 @@ SELECT Year,
        COUNT(CASE WHEN Medal = 'Bronze' THEN 1 END) AS Bronze_Medals
 FROM athlete_events
 WHERE Medal IS NOT NULL
+GROUP BY Year
+ORDER BY Year;
+
+-- only summer
+SELECT Year, 
+       COUNT(*) AS Total_Medals,
+       COUNT(CASE WHEN Medal = 'Gold' THEN 1 END) AS Gold_Medals,
+       COUNT(CASE WHEN Medal = 'Silver' THEN 1 END) AS Silver_Medals,
+       COUNT(CASE WHEN Medal = 'Bronze' THEN 1 END) AS Bronze_Medals
+FROM athlete_events
+WHERE Medal != 'NA' AND Season = "Summer"
 GROUP BY Year
 ORDER BY Year;
 
@@ -280,6 +301,18 @@ SELECT
 FROM athlete_events a
 JOIN noc_regions n 
 ON a.NOC = n.NOC
+GROUP BY year, n.region
+ORDER BY year;
+
+-- summer only
+SELECT 
+    year, n.region,
+    COUNT(*) AS total_athletes,
+    COUNT(CASE WHEN medal != 'NA' THEN 1 END) AS medalists
+FROM athlete_events a
+JOIN noc_regions n 
+ON a.NOC = n.NOC
+WHERE season = 'Summer'
 GROUP BY year, n.region
 ORDER BY year;
 
