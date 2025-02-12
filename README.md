@@ -224,7 +224,11 @@ Visualizations
 ## Next Steps
 
 - **Exporting Query Results to CSV**: After cleaning and analyzing the data in SQL, I exported relevant queries into CSV files.
-- **Creating Visualizations in Tableau**: I used the CSV files to create insightful visualizations.
-- **Adding Screenshots**: Screenshots of the Tableau visualizations will be included later.
+
+- **Creating Visualizations in Tableau**: I used the CSV files to create insightful visualizations. These visualisations are to be improved in the future.
 
 
+
+![Story 1](Visualization%20screenshots/Story%201.png)
+![Story 2](Visualization%20screenshots/Story%202.png)
+![Story 3](Visualization%20screenshots/Story%203.png)
