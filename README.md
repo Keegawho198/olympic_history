@@ -229,9 +229,9 @@ Visualizations
 
 Link to tableau: https://public.tableau.com/views/InteractiveOlympics/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+![Story 1](Visualization%20screenshots/Improved%20Story%201.png)
+![Story 2](Visualization%20screenshots/Improved%20Story%202.png)
 
-![Story 1](Visualization%20screenshots/Improved%Story%201.png)
-![Story 2](Visualization%20screenshots/Improved%Story%202.png)
 
 ![Story 3](Visualization%20screenshots/Story%201.png)
 ![Story 4](Visualization%20screenshots/Story%202.png)
