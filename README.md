@@ -227,10 +227,12 @@ Visualizations
 
 - **Creating Visualizations in Tableau**: I used the CSV files to create insightful visualizations. These visualisations are to be improved in the future.
 
-Link to tableau: https://public.tableau.com/views/Olympics_17393281526040/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Link to tableau: https://public.tableau.com/views/InteractiveOlympics/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
+![Story 1](Visualization%20screenshots/Improved%Story%201.png)
+![Story 2](Visualization%20screenshots/Improved%Story%202.png)
 
-![Story 1](Visualization%20screenshots/Story%201.png)
-![Story 2](Visualization%20screenshots/Story%202.png)
-![Story 3](Visualization%20screenshots/Story%203.png)
+![Story 3](Visualization%20screenshots/Story%201.png)
+![Story 4](Visualization%20screenshots/Story%202.png)
+![Story 5](Visualization%20screenshots/Story%203.png)
