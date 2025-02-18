@@ -9,8 +9,36 @@ USE olympics;
 SELECT COUNT(*) FROM athlete_events;
 SELECT COUNT(*) FROM noc_regions;
 
-SELECT * FROM athlete_events
+SELECT * 
+FROM athlete_events 
 WHERE Medal != 'NA';
+
+SELECT * 
+FROM athlete_events a
+JOIN noc_regions n 
+ON a.NOC = n.NOC
+WHERE Medal != 'NA' AND season = 'Summer';
+
+# Name, Team, Sport, num_medals, season, Gold_Medals, Silver_Medals, Bronze_Medals
+-- 'Michael Fred Phelps  II', 'United States', 'Swimming', '28', 'Summer', '23', '3', '2'
+
+
+SELECT name, medal
+FROM athlete_events a
+JOIN noc_regions n 
+ON a.NOC = n.NOC
+WHERE Medal != 'NA'
+ORDER BY medal
+;
+
+SELECT DISTINCT region 
+FROM athlete_events a
+JOIN noc_regions n 
+ON a.NOC = n.NOC
+WHERE Medal != 'NA';
+
+SELECT NOC, region FROM noc_regions;
+
 
 -- check for any values that have null , some values have not been recorded
 SELECT * FROM athlete_events 
@@ -38,6 +66,9 @@ HAVING COUNT(*) > 1;
 -- remove comma as it moves coloumns to next coloumn in tableau
 UPDATE athlete_events
 SET Name = REPLACE(Name, ',', ' ');
+
+UPDATE athlete_events
+SET Event = REPLACE(Name, ',', ' ');
 
 
 SELECT *
@@ -173,13 +204,13 @@ ORDER BY Year, Medal;
 /*Top 10 Most Successful Athletes:
 Identify athletes with the highest number of medals.
 */
-SELECT Name, Team, Sport, COUNT(Medal) AS num_medals,
+SELECT Name, Team, Sport, COUNT(Medal) AS num_medals, season,
 		COUNT(CASE WHEN Medal = 'Gold' THEN 1 END) AS Gold_Medals,
        COUNT(CASE WHEN Medal = 'Silver' THEN 1 END) AS Silver_Medals,
        COUNT(CASE WHEN Medal = 'Bronze' THEN 1 END) AS Bronze_Medals
 FROM athlete_events
 WHERE Medal != 'NA'
-GROUP BY Name, Team, Sport
+GROUP BY Name, Team, Sport,season
 ORDER BY num_medals DESC;
 -- LIMIT 10;
 
